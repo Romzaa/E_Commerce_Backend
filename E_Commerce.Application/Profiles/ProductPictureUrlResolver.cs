@@ -9,10 +9,10 @@ using System.Text;
 
 namespace E_Commerce.Application.Profiles
 {
-    public class PictureUrlResolver : IValueResolver<Product, ProductDTO, string>
+    public class ProductPictureUrlResolver : IValueResolver<Product, ProductDTO, string>
     {
         private readonly UrlSetting _settings;
-        public PictureUrlResolver(IOptions<UrlSetting> options)
+        public ProductPictureUrlResolver(IOptions<UrlSetting> options)
         {
             _settings = options.Value;
         }

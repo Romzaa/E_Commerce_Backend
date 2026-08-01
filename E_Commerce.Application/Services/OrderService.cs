@@ -70,7 +70,7 @@ namespace E_Commerce.Application.Services
             var subTotal = orderItems.Sum(oi => (oi.Price * oi.Quantity));
 
 
-            var order = new Order(email, orderItems, orderAddress, deliveryMethod, subTotal);
+            var order = new Order(email, orderItems, orderAddress, deliveryMethod, subTotal, cart.PaymentIntentId!);
 
             var orderRepo = _unitOfWork.GetRepository<Order, Guid>();
 
@@ -87,5 +87,26 @@ namespace E_Commerce.Application.Services
         }
 
 
+        async Task<Result<IReadOnlyList<DeliveryMethodDTO>>> IOrderService.GetAllDeliveryMethodsAsync(CancellationToken ct)
+        {
+            var deliveryMethods= await _unitOfWork.GetRepository<DeliveryMethod, int>().GetAllAsync(ct);
+            return Result<IReadOnlyList<DeliveryMethodDTO>>.Ok(_mapper.Map<IReadOnlyList<DeliveryMethodDTO>>(deliveryMethods));
+        }
+
+        async Task<Result<IReadOnlyList<OrderToReturnDTO>>> IOrderService.GetAllOrdersAsync(string email, CancellationToken ct)
+        {
+            var orders = await _unitOfWork.GetRepository<Order, Guid>().GetAllAsync(new OrderSpecifications(email), ct);
+            return Result<IReadOnlyList<OrderToReturnDTO>>.Ok(_mapper.Map<IReadOnlyList<OrderToReturnDTO>>(orders));
+        }
+
+        async Task<Result<OrderToReturnDTO>> IOrderService.GetOrderByIdAndEMailAsync(Guid orderId, string email, CancellationToken ct)
+        {
+            var order = await _unitOfWork.GetRepository<Order, Guid>().GetByIdAsync(new OrderSpecifications(orderId,email), ct);
+            if(order is null)
+                return Result<OrderToReturnDTO>.Fail(Error.NotFound("Order.NotFound", $"Order: {orderId} - Is Not Found"));
+            else
+                return Result<OrderToReturnDTO>.Ok(_mapper.Map<OrderToReturnDTO>(order));
+
+        }
     }
 }

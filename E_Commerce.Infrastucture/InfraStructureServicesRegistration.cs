@@ -6,6 +6,7 @@ using E_Commerce.Infrastucture.DataSeed;
 using E_Commerce.Infrastucture.Identity.Data;
 using E_Commerce.Infrastucture.Identity.Entities;
 using E_Commerce.Infrastucture.Identity.Services;
+using E_Commerce.Infrastucture.Payment;
 using E_Commerce.Infrastucture.Repositories;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
@@ -69,6 +70,8 @@ namespace E_Commerce.Infrastucture
                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSettings.SecretKey))
                 };
             });
+
+            services.AddScoped<IPaymentGateway, StripePaymentGateway>();
 
             return services;
                       

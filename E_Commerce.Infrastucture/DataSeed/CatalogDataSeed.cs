@@ -1,5 +1,6 @@
 ﻿using E_Commerce.Domain.Contracts;
 using E_Commerce.Domain.Entities;
+using E_Commerce.Domain.Entities.Orders;
 using E_Commerce.Domain.Entities.Products;
 using E_Commerce.Infrastucture.Data;
 using Microsoft.EntityFrameworkCore;
@@ -33,17 +34,18 @@ namespace E_Commerce.Infrastucture.DataSeed
                 await SeedIfEmptyAsync<ProductBrand, int>(seedRoot, "brands.json", ct);
                 await SeedIfEmptyAsync<ProductType, int>(seedRoot, "types.json", ct);
                 await SeedIfEmptyAsync<Product, int>(seedRoot, "products.json", ct);
+                await SeedIfEmptyAsync<DeliveryMethod, int>(seedRoot, "delivery.json", ct);
 
                 var result = await _dbContext.SaveChangesAsync(ct);
                 if(result > 0) 
-                { _logger.LogInformation($"{result} Rows Added"); }
+                { _logger.LogInformation($"\u001b[32m {result} Rows Added\u001b[0m"); }
                 else { 
                 _logger.LogInformation("Database Already Seeded");
                 }
             }
             catch (Exception ex) 
             {
-                _logger.LogError(ex, "An Error Occured While Data Seeding");
+                _logger.LogError(ex, "\u001b[31m An Error Occured While Data Seeding\u001b[0m");
             }
         }
 
@@ -51,13 +53,13 @@ namespace E_Commerce.Infrastucture.DataSeed
         {
             if(await _dbContext.Set<T>().AnyAsync(ct))
             {
-                _logger.LogInformation("Table Already Has Data");
+                _logger.LogInformation("\u001b[33m Table Already Has Data\u001b[0m");
                 return;
             }
             var filePath = Path.Combine(rootPath, fileName);
             if (!File.Exists(filePath)) 
             {
-                _logger.LogWarning($"File {fileName} Doesn't Exist");
+                _logger.LogWarning($"\u001b[31m File {fileName} Doesn't Exist\u001b[0m");
             
             }
 

@@ -12,7 +12,9 @@ namespace E_Commerce.Domain.Entities.Orders
         {
             
         }
-        public Order(string buyerEmail, ICollection<OrderItem> items, OrderAddress shipToAddress, DeliveryMethod deliveryMethod, decimal subTotal)
+        public Order(string buyerEmail, ICollection<OrderItem> items,
+                    OrderAddress shipToAddress, DeliveryMethod deliveryMethod,
+                    decimal subTotal, string paymentIntentId)
         {
             BuyerEmail = buyerEmail;
             Items = items;
@@ -20,6 +22,7 @@ namespace E_Commerce.Domain.Entities.Orders
             DeliveryMethod = deliveryMethod;
             DeliverMethodId = deliveryMethod.Id;
             SubTotal = subTotal;
+            PaymentIntentId = paymentIntentId;
         }
 
         public string BuyerEmail { get; private set; } = default!;
