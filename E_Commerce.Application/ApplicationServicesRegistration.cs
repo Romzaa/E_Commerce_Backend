@@ -14,6 +14,7 @@ namespace E_Commerce.Application
         {
             services.AddAutoMapper(c => { }, typeof(ApplicationServicesRegistration).Assembly);
             services.AddScoped<IProductService, ProductService>();
+            services.AddScoped<IBrandsTypesService, BrandsTypesService>();
             services.AddScoped<ICartService, CartService>();
             services.AddScoped<ICacheService, CacheService>();
             services.AddScoped<IAuthenticationService, AuthenticationService>();

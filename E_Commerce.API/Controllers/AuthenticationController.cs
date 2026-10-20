@@ -17,7 +17,7 @@ namespace E_Commerce.API.Controllers
             _authenticationService = authenticationService;
         }
         [HttpPost("login")]
-        [ProducesResponseType(typeof(UserDTO), StatusCodes.Status410Gone)]
+        [ProducesResponseType(typeof(UserDTO), StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status401Unauthorized)] 
         public async Task<ActionResult<UserDTO>> Login(LoginDTO loginDto, CancellationToken ct)
         {

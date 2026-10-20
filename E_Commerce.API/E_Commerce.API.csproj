@@ -7,22 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="..\..\..\..\Eng-Omar Wael\09 Web API\Session 02\Images\Products\CasualSneakers.jpg" Link="Files\images\products\CasualSneakers.jpg" />
-    <Content Include="..\..\..\..\Eng-Omar Wael\09 Web API\Session 02\Images\Products\ClassicBlackDressPants.jpg" Link="Files\images\products\ClassicBlackDressPants.jpg" />
-    <Content Include="..\..\..\..\Eng-Omar Wael\09 Web API\Session 02\Images\Products\ClassicWhiteTShirt.jpeg" Link="Files\images\products\ClassicWhiteTShirt.jpeg" />
-    <Content Include="..\..\..\..\Eng-Omar Wael\09 Web API\Session 02\Images\Products\CottonHoodie.jpg" Link="Files\images\products\CottonHoodie.jpg" />
-    <Content Include="..\..\..\..\Eng-Omar Wael\09 Web API\Session 02\Images\Products\DenimJacket.jpg" Link="Files\images\products\DenimJacket.jpg" />
-    <Content Include="..\..\..\..\Eng-Omar Wael\09 Web API\Session 02\Images\Products\FormalBlazer.jpg" Link="Files\images\products\FormalBlazer.jpg" />
-    <Content Include="..\..\..\..\Eng-Omar Wael\09 Web API\Session 02\Images\Products\KnittedSweater.jpg" Link="Files\images\products\KnittedSweater.jpg" />
-    <Content Include="..\..\..\..\Eng-Omar Wael\09 Web API\Session 02\Images\Products\MensLeatherJacket.jpg" Link="Files\images\products\MensLeatherJacket.jpg" />
-    <Content Include="..\..\..\..\Eng-Omar Wael\09 Web API\Session 02\Images\Products\MensPoloShirt.jpg" Link="Files\images\products\MensPoloShirt.jpg" />
-    <Content Include="..\..\..\..\Eng-Omar Wael\09 Web API\Session 02\Images\Products\SlimFitJeans.jpg" Link="Files\images\products\SlimFitJeans.jpg" />
-    <Content Include="..\..\..\..\Eng-Omar Wael\09 Web API\Session 02\Images\Products\SummerFloralDress.jpg" Link="Files\images\products\SummerFloralDress.jpg" />
-    <Content Include="..\..\..\..\Eng-Omar Wael\09 Web API\Session 02\Images\Products\WomensTrenchCoat.jpeg" Link="Files\images\products\WomensTrenchCoat.jpeg" />
-    <Content Include="..\..\..\..\Eng-Omar Wael\09 Web API\Session 02\Images\Products\WoolScarf.jpg" Link="Files\images\products\WoolScarf.jpg" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.9" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="10.0.10">
       <PrivateAssets>all</PrivateAssets>
@@ -38,6 +22,8 @@
 
   <ItemGroup>
     <Folder Include="Files\images\products\" />
+    <Folder Include="wwwroot\" />
   </ItemGroup>
+
 
 </Project>

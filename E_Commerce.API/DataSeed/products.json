@@ -1,0 +1,2387 @@
+[
+  {
+       "Name": "Classic White T-Shirt",
+    "Description": "A soft cotton white t-shirt that goes with everything. Perfect for casual everyday wear.",
+    "ThumbnailUrl": "thumbnails/products/ClassicWhiteTShirt.jpeg",
+    "Price": 120.00,
+    "DiscountPercentage": 0.00,
+    "StockQuantity": 50,
+    "Rating": 4.50,
+    "BrandId": 1,
+    "TypeId": 1
+  },
+  {
+       "Name": "Slim Fit Jeans",
+    "Description": "These mid-rise slim fit jeans offer a comfortable stretch and a stylish look for all occasions.",
+    "ThumbnailUrl": "thumbnails/products/SlimFitJeans.jpg",
+    "Price": 350.00,
+    "DiscountPercentage": 0.00,
+    "StockQuantity": 40,
+    "Rating": 4.20,
+    "BrandId": 2,
+    "TypeId": 2
+  },
+  {
+       "Name": "Denim Jacket",
+    "Description": "A timeless denim jacket with a slightly faded wash. Layer it over any outfit for an instant upgrade.",
+    "ThumbnailUrl": "thumbnails/products/DenimJacket.jpg",
+    "Price": 500.00,
+    "DiscountPercentage": 0.00,
+    "StockQuantity": 30,
+    "Rating": 4.80,
+    "BrandId": 2,
+    "TypeId": 11
+  },
+  {
+       "Name": "Cotton Hoodie",
+    "Description": "Soft and cozy cotton hoodie with adjustable drawstring and kangaroo pocket. Ideal for cool evenings.",
+    "ThumbnailUrl": "thumbnails/products/CottonHoodie.jpg",
+    "Price": 400.00,
+    "DiscountPercentage": 0.00,
+    "StockQuantity": 60,
+    "Rating": 4.60,
+    "BrandId": 3,
+    "TypeId": 1
+  },
+  {
+       "Name": "Formal Blazer",
+    "Description": "Tailored-fit blazer that adds a touch of sophistication to any outfit. Perfect for business or evening wear.",
+    "ThumbnailUrl": "thumbnails/products/FormalBlazer.jpg",
+    "Price": 850.00,
+    "DiscountPercentage": 0.00,
+    "StockQuantity": 20,
+    "Rating": 4.70,
+    "BrandId": 4,
+    "TypeId": 4
+  },
+  {
+       "Name": "Summer Floral Dress",
+    "Description": "Flowy floral summer dress with adjustable straps and a flattering waistline. Breathable and comfortable.",
+    "ThumbnailUrl": "thumbnails/products/SummerFloralDress.jpg",
+    "Price": 450.00,
+    "DiscountPercentage": 0.00,
+    "StockQuantity": 25,
+    "Rating": 4.40,
+    "BrandId": 5,
+    "TypeId": 9
+  },
+  {
+       "Name": "Men's Leather Jacket",
+    "Description": "Classic brown leather jacket with zip closure and side pockets. Durable and stylish for all seasons.",
+    "ThumbnailUrl": "thumbnails/products/MensLeatherJacket.jpg",
+    "Price": 1200.00,
+    "DiscountPercentage": 0.00,
+    "StockQuantity": 15,
+    "Rating": 4.90,
+    "BrandId": 6,
+    "TypeId": 4
+  },
+  {
+       "Name": "Casual Sneakers",
+    "Description": "Lightweight sneakers designed for everyday wear. Breathable material with cushioned soles.",
+    "ThumbnailUrl": "thumbnails/products/CasualSneakers.jpg",
+    "Price": 600.00,
+    "DiscountPercentage": 0.00,
+    "StockQuantity": 45,
+    "Rating": 4.30,
+    "BrandId": 3,
+    "TypeId": 3
+  },
+  {
+       "Name": "Classic Black Dress Pants",
+    "Description": "Slim-cut black dress pants that offer a polished look for formal or office wear.",
+    "ThumbnailUrl": "thumbnails/products/ClassicBlackDressPants.jpg",
+    "Price": 400.00,
+    "DiscountPercentage": 0.00,
+    "StockQuantity": 35,
+    "Rating": 4.10,
+    "BrandId": 1,
+    "TypeId": 2
+  },
+  {
+        "Name": "Knitted Sweater",
+    "Description": "Warm knitted sweater with a crew neckline and ribbed cuffs. Ideal for layering in winter.",
+    "ThumbnailUrl": "thumbnails/products/KnittedSweater.jpg",
+    "Price": 380.00,
+    "DiscountPercentage": 0.00,
+    "StockQuantity": 50,
+    "Rating": 4.50,
+    "BrandId": 2,
+    "TypeId": 1
+  },
+  {
+        "Name": "Men's Polo Shirt",
+    "Description": "Classic short-sleeve polo shirt with a soft feel and neat collar. Perfect for casual Fridays.",
+    "ThumbnailUrl": "thumbnails/products/MensPoloShirt.jpg",
+    "Price": 200.00,
+    "DiscountPercentage": 0.00,
+    "StockQuantity": 70,
+    "Rating": 4.00,
+    "BrandId": 4,
+    "TypeId": 1
+  },
+  {
+        "Name": "Women's Trench Coat",
+    "Description": "Chic beige trench coat with adjustable belt and water-resistant fabric. A wardrobe essential.",
+    "ThumbnailUrl": "thumbnails/products/WomensTrenchCoat.jpeg",
+    "Price": 950.00,
+    "DiscountPercentage": 0.00,
+    "StockQuantity": 18,
+    "Rating": 4.80,
+    "BrandId": 5,
+    "TypeId": 11
+  },
+  {
+        "Name": "Wool Scarf",
+    "Description": "Soft wool scarf that keeps you warm while adding a stylish touch to your winter outfits.",
+    "ThumbnailUrl": "thumbnails/products/WoolScarf.jpg",
+    "Price": 150.00,
+    "DiscountPercentage": 0.00,
+    "StockQuantity": 80,
+    "Rating": 4.20,
+    "BrandId": 2,
+    "TypeId": 5
+  },
+  {
+        "Name": "Essence Mascara Lash Princess",
+    "Description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+    "ThumbnailUrl": "thumbnails/products/essence-mascara-lash-princess_thumbnail.jpg",
+    "Price": 9.99,
+    "DiscountPercentage": 10.48,
+    "StockQuantity": 99,
+    "Rating": 2.56,
+    "BrandId": 7,
+    "TypeId": 20
+  },
+  {
+        "Name": "Eyeshadow Palette with Mirror",
+    "Description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+    "ThumbnailUrl": "thumbnails/products/eyeshadow-palette-with-mirror_thumbnail.jpg",
+    "Price": 19.99,
+    "DiscountPercentage": 18.19,
+    "StockQuantity": 34,
+    "Rating": 2.86,
+    "BrandId": 8,
+    "TypeId": 20
+  },
+  {
+        "Name": "Powder Canister",
+    "Description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+    "ThumbnailUrl": "thumbnails/products/powder-canister_thumbnail.jpg",
+    "Price": 14.99,
+    "DiscountPercentage": 9.84,
+    "StockQuantity": 89,
+    "Rating": 4.64,
+    "BrandId": 9,
+    "TypeId": 20
+  },
+  {
+        "Name": "Red Lipstick",
+    "Description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+    "ThumbnailUrl": "thumbnails/products/red-lipstick_thumbnail.jpg",
+    "Price": 12.99,
+    "DiscountPercentage": 12.16,
+    "StockQuantity": 91,
+    "Rating": 4.36,
+    "BrandId": 10,
+    "TypeId": 20
+  },
+  {
+        "Name": "Red Nail Polish",
+    "Description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+    "ThumbnailUrl": "thumbnails/products/red-nail-polish_thumbnail.jpg",
+    "Price": 8.99,
+    "DiscountPercentage": 11.44,
+    "StockQuantity": 79,
+    "Rating": 4.32,
+    "BrandId": 11,
+    "TypeId": 20
+  },
+  {
+        "Name": "Calvin Klein CK One",
+    "Description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+    "ThumbnailUrl": "thumbnails/products/calvin-klein-ck-one_thumbnail.jpg",
+    "Price": 49.99,
+    "DiscountPercentage": 1.89,
+    "StockQuantity": 29,
+    "Rating": 4.37,
+    "BrandId": 12,
+    "TypeId": 21
+  },
+  {
+        "Name": "Chanel Coco Noir Eau De",
+    "Description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+    "ThumbnailUrl": "thumbnails/products/chanel-coco-noir-eau-de_thumbnail.jpg",
+    "Price": 129.99,
+    "DiscountPercentage": 16.51,
+    "StockQuantity": 58,
+    "Rating": 4.26,
+    "BrandId": 13,
+    "TypeId": 21
+  },
+  {
+        "Name": "Dior J'adore",
+    "Description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+    "ThumbnailUrl": "thumbnails/products/dior-j'adore_thumbnail.jpg",
+    "Price": 89.99,
+    "DiscountPercentage": 14.72,
+    "StockQuantity": 98,
+    "Rating": 3.80,
+    "BrandId": 14,
+    "TypeId": 21
+  },
+  {
+        "Name": "Dolce Shine Eau de",
+    "Description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+    "ThumbnailUrl": "thumbnails/products/dolce-shine-eau-de_thumbnail.jpg",
+    "Price": 69.99,
+    "DiscountPercentage": 0.62,
+    "StockQuantity": 4,
+    "Rating": 3.96,
+    "BrandId": 15,
+    "TypeId": 21
+  },
+  {
+        "Name": "Gucci Bloom Eau de",
+    "Description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+    "ThumbnailUrl": "thumbnails/products/gucci-bloom-eau-de_thumbnail.jpg",
+    "Price": 79.99,
+    "DiscountPercentage": 14.39,
+    "StockQuantity": 91,
+    "Rating": 2.74,
+    "BrandId": 16,
+    "TypeId": 21
+  },
+  {
+        "Name": "Annibale Colombo Bed",
+    "Description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+    "ThumbnailUrl": "thumbnails/products/annibale-colombo-bed_thumbnail.jpg",
+    "Price": 1899.99,
+    "DiscountPercentage": 8.57,
+    "StockQuantity": 88,
+    "Rating": 4.77,
+    "BrandId": 17,
+    "TypeId": 23
+  },
+  {
+        "Name": "Annibale Colombo Sofa",
+    "Description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+    "ThumbnailUrl": "thumbnails/products/annibale-colombo-sofa_thumbnail.jpg",
+    "Price": 2499.99,
+    "DiscountPercentage": 14.40,
+    "StockQuantity": 60,
+    "Rating": 3.92,
+    "BrandId": 17,
+    "TypeId": 23
+  },
+  {
+        "Name": "Bedside Table African Cherry",
+    "Description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+    "ThumbnailUrl": "thumbnails/products/bedside-table-african-cherry_thumbnail.jpg",
+    "Price": 299.99,
+    "DiscountPercentage": 19.09,
+    "StockQuantity": 64,
+    "Rating": 2.87,
+    "BrandId": 18,
+    "TypeId": 23
+  },
+  {
+        "Name": "Knoll Saarinen Executive Conference Chair",
+    "Description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+    "ThumbnailUrl": "thumbnails/products/knoll-saarinen-executive-conference-chair_thumbnail.jpg",
+    "Price": 499.99,
+    "DiscountPercentage": 2.01,
+    "StockQuantity": 26,
+    "Rating": 4.88,
+    "BrandId": 18,
+    "TypeId": 23
+  },
+  {
+        "Name": "Wooden Bathroom Sink With Mirror",
+    "Description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+    "ThumbnailUrl": "thumbnails/products/wooden-bathroom-sink-with-mirror_thumbnail.jpg",
+    "Price": 799.99,
+    "DiscountPercentage": 8.80,
+    "StockQuantity": 7,
+    "Rating": 3.59,
+    "BrandId": 18,
+    "TypeId": 23
+  },
+  {
+        "Name": "Apple",
+    "Description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+    "ThumbnailUrl": "thumbnails/products/apple_thumbnail.jpg",
+    "Price": 1.99,
+    "DiscountPercentage": 12.62,
+    "StockQuantity": 8,
+    "Rating": 4.19,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Beef Steak",
+    "Description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+    "ThumbnailUrl": "thumbnails/products/beef-steak_thumbnail.jpg",
+    "Price": 12.99,
+    "DiscountPercentage": 9.61,
+    "StockQuantity": 86,
+    "Rating": 4.47,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Cat Food",
+    "Description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+    "ThumbnailUrl": "thumbnails/products/cat-food_thumbnail.jpg",
+    "Price": 8.99,
+    "DiscountPercentage": 9.58,
+    "StockQuantity": 46,
+    "Rating": 3.13,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Chicken Meat",
+    "Description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+    "ThumbnailUrl": "thumbnails/products/chicken-meat_thumbnail.jpg",
+    "Price": 9.99,
+    "DiscountPercentage": 13.70,
+    "StockQuantity": 97,
+    "Rating": 3.19,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Cooking Oil",
+    "Description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+    "ThumbnailUrl": "thumbnails/products/cooking-oil_thumbnail.jpg",
+    "Price": 4.99,
+    "DiscountPercentage": 9.33,
+    "StockQuantity": 10,
+    "Rating": 4.80,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Cucumber",
+    "Description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+    "ThumbnailUrl": "thumbnails/products/cucumber_thumbnail.jpg",
+    "Price": 1.49,
+    "DiscountPercentage": 0.16,
+    "StockQuantity": 84,
+    "Rating": 4.07,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Dog Food",
+    "Description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+    "ThumbnailUrl": "thumbnails/products/dog-food_thumbnail.jpg",
+    "Price": 10.99,
+    "DiscountPercentage": 10.27,
+    "StockQuantity": 71,
+    "Rating": 4.55,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Eggs",
+    "Description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+    "ThumbnailUrl": "thumbnails/products/eggs_thumbnail.jpg",
+    "Price": 2.99,
+    "DiscountPercentage": 11.05,
+    "StockQuantity": 9,
+    "Rating": 2.53,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Fish Steak",
+    "Description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+    "ThumbnailUrl": "thumbnails/products/fish-steak_thumbnail.jpg",
+    "Price": 14.99,
+    "DiscountPercentage": 4.23,
+    "StockQuantity": 74,
+    "Rating": 3.78,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Green Bell Pepper",
+    "Description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+    "ThumbnailUrl": "thumbnails/products/green-bell-pepper_thumbnail.jpg",
+    "Price": 1.29,
+    "DiscountPercentage": 0.16,
+    "StockQuantity": 33,
+    "Rating": 3.25,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Green Chili Pepper",
+    "Description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+    "ThumbnailUrl": "thumbnails/products/green-chili-pepper_thumbnail.jpg",
+    "Price": 0.99,
+    "DiscountPercentage": 1.00,
+    "StockQuantity": 3,
+    "Rating": 3.66,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Honey Jar",
+    "Description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+    "ThumbnailUrl": "thumbnails/products/honey-jar_thumbnail.jpg",
+    "Price": 6.99,
+    "DiscountPercentage": 14.40,
+    "StockQuantity": 34,
+    "Rating": 3.97,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Ice Cream",
+    "Description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+    "ThumbnailUrl": "thumbnails/products/ice-cream_thumbnail.jpg",
+    "Price": 5.49,
+    "DiscountPercentage": 8.69,
+    "StockQuantity": 27,
+    "Rating": 3.39,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Juice",
+    "Description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+    "ThumbnailUrl": "thumbnails/products/juice_thumbnail.jpg",
+    "Price": 3.99,
+    "DiscountPercentage": 12.06,
+    "StockQuantity": 50,
+    "Rating": 3.94,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Kiwi",
+    "Description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+    "ThumbnailUrl": "thumbnails/products/kiwi_thumbnail.jpg",
+    "Price": 2.49,
+    "DiscountPercentage": 15.22,
+    "StockQuantity": 99,
+    "Rating": 4.93,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Lemon",
+    "Description": "Zesty and tangy lemons, versatile for cooking, baking, or making refreshing beverages.",
+    "ThumbnailUrl": "thumbnails/products/lemon_thumbnail.jpg",
+    "Price": 0.79,
+    "DiscountPercentage": 9.70,
+    "StockQuantity": 31,
+    "Rating": 3.53,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Milk",
+    "Description": "Fresh and nutritious milk, a staple for various recipes and daily consumption.",
+    "ThumbnailUrl": "thumbnails/products/milk_thumbnail.jpg",
+    "Price": 3.49,
+    "DiscountPercentage": 13.74,
+    "StockQuantity": 27,
+    "Rating": 2.61,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Mulberry",
+    "Description": "Sweet and juicy mulberries, perfect for snacking or adding to desserts and cereals.",
+    "ThumbnailUrl": "thumbnails/products/mulberry_thumbnail.jpg",
+    "Price": 4.99,
+    "DiscountPercentage": 12.87,
+    "StockQuantity": 99,
+    "Rating": 4.95,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Nescafe Coffee",
+    "Description": "Quality coffee from Nescafe, available in various blends for a rich and satisfying cup.",
+    "ThumbnailUrl": "thumbnails/products/nescafe-coffee_thumbnail.jpg",
+    "Price": 7.99,
+    "DiscountPercentage": 1.59,
+    "StockQuantity": 57,
+    "Rating": 4.82,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Potatoes",
+    "Description": "Versatile and starchy potatoes, great for roasting, mashing, or as a side dish.",
+    "ThumbnailUrl": "thumbnails/products/potatoes_thumbnail.jpg",
+    "Price": 2.29,
+    "DiscountPercentage": 5.38,
+    "StockQuantity": 13,
+    "Rating": 4.81,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Protein Powder",
+    "Description": "Nutrient-packed protein powder, ideal for supplementing your diet with essential proteins.",
+    "ThumbnailUrl": "thumbnails/products/protein-powder_thumbnail.jpg",
+    "Price": 19.99,
+    "DiscountPercentage": 7.59,
+    "StockQuantity": 80,
+    "Rating": 4.18,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Red Onions",
+    "Description": "Flavorful and aromatic red onions, perfect for adding depth to your savory dishes.",
+    "ThumbnailUrl": "thumbnails/products/red-onions_thumbnail.jpg",
+    "Price": 1.99,
+    "DiscountPercentage": 9.90,
+    "StockQuantity": 82,
+    "Rating": 4.20,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Rice",
+    "Description": "High-quality rice, a staple for various cuisines and a versatile base for many dishes.",
+    "ThumbnailUrl": "thumbnails/products/rice_thumbnail.jpg",
+    "Price": 5.99,
+    "DiscountPercentage": 9.29,
+    "StockQuantity": 59,
+    "Rating": 3.18,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Soft Drinks",
+    "Description": "Assorted soft drinks in various flavors, perfect for refreshing beverages.",
+    "ThumbnailUrl": "thumbnails/products/soft-drinks_thumbnail.jpg",
+    "Price": 1.99,
+    "DiscountPercentage": 17.48,
+    "StockQuantity": 53,
+    "Rating": 4.75,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Strawberry",
+    "Description": "Sweet and succulent strawberries, great for snacking, desserts, or blending into smoothies.",
+    "ThumbnailUrl": "thumbnails/products/strawberry_thumbnail.jpg",
+    "Price": 3.99,
+    "DiscountPercentage": 1.12,
+    "StockQuantity": 46,
+    "Rating": 3.08,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Tissue Paper Box",
+    "Description": "Convenient tissue paper box for everyday use, providing soft and absorbent tissues.",
+    "ThumbnailUrl": "thumbnails/products/tissue-paper-box_thumbnail.jpg",
+    "Price": 2.49,
+    "DiscountPercentage": 13.28,
+    "StockQuantity": 86,
+    "Rating": 2.69,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Water",
+    "Description": "Pure and refreshing bottled water, essential for staying hydrated throughout the day.",
+    "ThumbnailUrl": "thumbnails/products/water_thumbnail.jpg",
+    "Price": 0.99,
+    "DiscountPercentage": 14.92,
+    "StockQuantity": 53,
+    "Rating": 4.96,
+    "BrandId": 31,
+    "TypeId": 26
+  },
+  {
+        "Name": "Decoration Swing",
+    "Description": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
+    "ThumbnailUrl": "thumbnails/products/decoration-swing_thumbnail.jpg",
+    "Price": 59.99,
+    "DiscountPercentage": 10.41,
+    "StockQuantity": 47,
+    "Rating": 3.16,
+    "BrandId": 31,
+    "TypeId": 24
+  },
+  {
+        "Name": "Family Tree Photo Frame",
+    "Description": "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
+    "ThumbnailUrl": "thumbnails/products/family-tree-photo-frame_thumbnail.jpg",
+    "Price": 29.99,
+    "DiscountPercentage": 14.87,
+    "StockQuantity": 77,
+    "Rating": 4.53,
+    "BrandId": 31,
+    "TypeId": 24
+  },
+  {
+        "Name": "House Showpiece Plant",
+    "Description": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+    "ThumbnailUrl": "thumbnails/products/house-showpiece-plant_thumbnail.jpg",
+    "Price": 39.99,
+    "DiscountPercentage": 7.46,
+    "StockQuantity": 28,
+    "Rating": 4.67,
+    "BrandId": 31,
+    "TypeId": 24
+  },
+  {
+        "Name": "Plant Pot",
+    "Description": "The Plant Pot is a stylish container for your favorite plants. With a sleek design, it complements your indoor or outdoor garden, adding a modern touch to your plant display.",
+    "ThumbnailUrl": "thumbnails/products/plant-pot_thumbnail.jpg",
+    "Price": 14.99,
+    "DiscountPercentage": 6.84,
+    "StockQuantity": 59,
+    "Rating": 3.01,
+    "BrandId": 31,
+    "TypeId": 24
+  },
+  {
+        "Name": "Table Lamp",
+    "Description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
+    "ThumbnailUrl": "thumbnails/products/table-lamp_thumbnail.jpg",
+    "Price": 49.99,
+    "DiscountPercentage": 7.09,
+    "StockQuantity": 9,
+    "Rating": 3.55,
+    "BrandId": 31,
+    "TypeId": 24
+  },
+  {
+        "Name": "Bamboo Spatula",
+    "Description": "The Bamboo Spatula is a versatile kitchen tool made from eco-friendly bamboo. Ideal for flipping, stirring, and serving various dishes.",
+    "ThumbnailUrl": "thumbnails/products/bamboo-spatula_thumbnail.jpg",
+    "Price": 7.99,
+    "DiscountPercentage": 2.84,
+    "StockQuantity": 37,
+    "Rating": 3.27,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Black Aluminium Cup",
+    "Description": "The Black Aluminium Cup is a stylish and durable cup suitable for both hot and cold beverages. Its sleek black design adds a modern touch to your drinkware collection.",
+    "ThumbnailUrl": "thumbnails/products/black-aluminium-cup_thumbnail.jpg",
+    "Price": 5.99,
+    "DiscountPercentage": 15.65,
+    "StockQuantity": 75,
+    "Rating": 4.46,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Black Whisk",
+    "Description": "The Black Whisk is a kitchen essential for whisking and beating ingredients. Its ergonomic handle and sleek design make it a practical and stylish tool.",
+    "ThumbnailUrl": "thumbnails/products/black-whisk_thumbnail.jpg",
+    "Price": 9.99,
+    "DiscountPercentage": 10.24,
+    "StockQuantity": 73,
+    "Rating": 3.90,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Boxed Blender",
+    "Description": "The Boxed Blender is a powerful and compact blender perfect for smoothies, shakes, and more. Its convenient design and multiple functions make it a versatile kitchen appliance.",
+    "ThumbnailUrl": "thumbnails/products/boxed-blender_thumbnail.jpg",
+    "Price": 39.99,
+    "DiscountPercentage": 7.26,
+    "StockQuantity": 9,
+    "Rating": 4.56,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Carbon Steel Wok",
+    "Description": "The Carbon Steel Wok is a versatile cooking pan suitable for stir-frying, sautéing, and deep frying. Its sturdy construction ensures even heat distribution for delicious meals.",
+    "ThumbnailUrl": "thumbnails/products/carbon-steel-wok_thumbnail.jpg",
+    "Price": 29.99,
+    "DiscountPercentage": 6.53,
+    "StockQuantity": 40,
+    "Rating": 4.05,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Chopping Board",
+    "Description": "The Chopping Board is an essential kitchen accessory for food preparation. Made from durable material, it provides a safe and hygienic surface for cutting and chopping.",
+    "ThumbnailUrl": "thumbnails/products/chopping-board_thumbnail.jpg",
+    "Price": 12.99,
+    "DiscountPercentage": 8.03,
+    "StockQuantity": 14,
+    "Rating": 3.70,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Citrus Squeezer Yellow",
+    "Description": "The Citrus Squeezer in Yellow is a handy tool for extracting juice from citrus fruits. Its vibrant color adds a cheerful touch to your kitchen gadgets.",
+    "ThumbnailUrl": "thumbnails/products/citrus-squeezer-yellow_thumbnail.jpg",
+    "Price": 8.99,
+    "DiscountPercentage": 12.10,
+    "StockQuantity": 22,
+    "Rating": 4.63,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Egg Slicer",
+    "Description": "The Egg Slicer is a convenient tool for slicing boiled eggs evenly. It's perfect for salads, sandwiches, and other dishes where sliced eggs are desired.",
+    "ThumbnailUrl": "thumbnails/products/egg-slicer_thumbnail.jpg",
+    "Price": 6.99,
+    "DiscountPercentage": 14.76,
+    "StockQuantity": 40,
+    "Rating": 3.09,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Electric Stove",
+    "Description": "The Electric Stove provides a portable and efficient cooking solution. Ideal for small kitchens or as an additional cooking surface for various culinary needs.",
+    "ThumbnailUrl": "thumbnails/products/electric-stove_thumbnail.jpg",
+    "Price": 49.99,
+    "DiscountPercentage": 14.04,
+    "StockQuantity": 21,
+    "Rating": 4.11,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Fine Mesh Strainer",
+    "Description": "The Fine Mesh Strainer is a versatile tool for straining liquids and sifting dry ingredients. Its fine mesh ensures efficient filtering for smooth cooking and baking.",
+    "ThumbnailUrl": "thumbnails/products/fine-mesh-strainer_thumbnail.jpg",
+    "Price": 9.99,
+    "DiscountPercentage": 3.50,
+    "StockQuantity": 85,
+    "Rating": 3.04,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Fork",
+    "Description": "The Fork is a classic utensil for various dining and serving purposes. Its durable and ergonomic design makes it a reliable choice for everyday use.",
+    "ThumbnailUrl": "thumbnails/products/fork_thumbnail.jpg",
+    "Price": 3.99,
+    "DiscountPercentage": 8.07,
+    "StockQuantity": 7,
+    "Rating": 3.11,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Glass",
+    "Description": "The Glass is a versatile and elegant drinking vessel suitable for a variety of beverages. Its clear design allows you to enjoy the colors and textures of your drinks.",
+    "ThumbnailUrl": "thumbnails/products/glass_thumbnail.jpg",
+    "Price": 4.99,
+    "DiscountPercentage": 7.92,
+    "StockQuantity": 46,
+    "Rating": 4.02,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Grater Black",
+    "Description": "The Grater in Black is a handy kitchen tool for grating cheese, vegetables, and more. Its sleek design and sharp blades make food preparation efficient and easy.",
+    "ThumbnailUrl": "thumbnails/products/grater-black_thumbnail.jpg",
+    "Price": 10.99,
+    "DiscountPercentage": 3.56,
+    "StockQuantity": 84,
+    "Rating": 3.21,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Hand Blender",
+    "Description": "The Hand Blender is a versatile kitchen appliance for blending, pureeing, and mixing. Its compact design and powerful motor make it a convenient tool for various recipes.",
+    "ThumbnailUrl": "thumbnails/products/hand-blender_thumbnail.jpg",
+    "Price": 34.99,
+    "DiscountPercentage": 17.02,
+    "StockQuantity": 84,
+    "Rating": 3.86,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Ice Cube Tray",
+    "Description": "The Ice Cube Tray is a practical accessory for making ice cubes in various shapes. Perfect for keeping your drinks cool and adding a fun element to your beverages.",
+    "ThumbnailUrl": "thumbnails/products/ice-cube-tray_thumbnail.jpg",
+    "Price": 5.99,
+    "DiscountPercentage": 0.63,
+    "StockQuantity": 13,
+    "Rating": 4.71,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Kitchen Sieve",
+    "Description": "The Kitchen Sieve is a versatile tool for sifting and straining dry and wet ingredients. Its fine mesh design ensures smooth results in your cooking and baking.",
+    "ThumbnailUrl": "thumbnails/products/kitchen-sieve_thumbnail.jpg",
+    "Price": 7.99,
+    "DiscountPercentage": 18.91,
+    "StockQuantity": 68,
+    "Rating": 3.09,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Knife",
+    "Description": "The Knife is an essential kitchen tool for chopping, slicing, and dicing. Its sharp blade and ergonomic handle make it a reliable choice for food preparation.",
+    "ThumbnailUrl": "thumbnails/products/knife_thumbnail.jpg",
+    "Price": 14.99,
+    "DiscountPercentage": 18.86,
+    "StockQuantity": 7,
+    "Rating": 3.26,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Lunch Box",
+    "Description": "The Lunch Box is a convenient and portable container for packing and carrying your meals. With compartments for different foods, it's perfect for on-the-go dining.",
+    "ThumbnailUrl": "thumbnails/products/lunch-box_thumbnail.jpg",
+    "Price": 12.99,
+    "DiscountPercentage": 10.34,
+    "StockQuantity": 94,
+    "Rating": 4.93,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Microwave Oven",
+    "Description": "The Microwave Oven is a versatile kitchen appliance for quick and efficient cooking, reheating, and defrosting. Its compact size makes it suitable for various kitchen setups.",
+    "ThumbnailUrl": "thumbnails/products/microwave-oven_thumbnail.jpg",
+    "Price": 89.99,
+    "DiscountPercentage": 12.13,
+    "StockQuantity": 59,
+    "Rating": 4.82,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Mug Tree Stand",
+    "Description": "The Mug Tree Stand is a stylish and space-saving solution for organizing your mugs. Keep your favorite mugs easily accessible and neatly displayed in your kitchen.",
+    "ThumbnailUrl": "thumbnails/products/mug-tree-stand_thumbnail.jpg",
+    "Price": 15.99,
+    "DiscountPercentage": 9.25,
+    "StockQuantity": 88,
+    "Rating": 2.64,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Pan",
+    "Description": "The Pan is a versatile and essential cookware item for frying, sautéing, and cooking various dishes. Its non-stick coating ensures easy food release and cleanup.",
+    "ThumbnailUrl": "thumbnails/products/pan_thumbnail.jpg",
+    "Price": 24.99,
+    "DiscountPercentage": 3.00,
+    "StockQuantity": 90,
+    "Rating": 2.79,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Plate",
+    "Description": "The Plate is a classic and essential dishware item for serving meals. Its durable and stylish design makes it suitable for everyday use or special occasions.",
+    "ThumbnailUrl": "thumbnails/products/plate_thumbnail.jpg",
+    "Price": 3.99,
+    "DiscountPercentage": 7.31,
+    "StockQuantity": 66,
+    "Rating": 3.65,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Red Tongs",
+    "Description": "The Red Tongs are versatile kitchen tongs suitable for various cooking and serving tasks. Their vibrant color adds a pop of excitement to your kitchen utensils.",
+    "ThumbnailUrl": "thumbnails/products/red-tongs_thumbnail.jpg",
+    "Price": 6.99,
+    "DiscountPercentage": 14.52,
+    "StockQuantity": 82,
+    "Rating": 4.42,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Silver Pot With Glass Cap",
+    "Description": "The Silver Pot with Glass Cap is a stylish and functional cookware item for boiling, simmering, and preparing delicious meals. Its glass cap allows you to monitor cooking progress.",
+    "ThumbnailUrl": "thumbnails/products/silver-pot-with-glass-cap_thumbnail.jpg",
+    "Price": 39.99,
+    "DiscountPercentage": 5.70,
+    "StockQuantity": 40,
+    "Rating": 3.22,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Slotted Turner",
+    "Description": "The Slotted Turner is a kitchen utensil designed for flipping and turning food items. Its slotted design allows excess liquid to drain, making it ideal for frying and sautéing.",
+    "ThumbnailUrl": "thumbnails/products/slotted-turner_thumbnail.jpg",
+    "Price": 8.99,
+    "DiscountPercentage": 13.35,
+    "StockQuantity": 88,
+    "Rating": 3.40,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Spice Rack",
+    "Description": "The Spice Rack is a convenient organizer for your spices and seasonings. Keep your kitchen essentials within reach and neatly arranged with this stylish spice rack.",
+    "ThumbnailUrl": "thumbnails/products/spice-rack_thumbnail.jpg",
+    "Price": 19.99,
+    "DiscountPercentage": 12.09,
+    "StockQuantity": 79,
+    "Rating": 4.87,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Spoon",
+    "Description": "The Spoon is a versatile kitchen utensil for stirring, serving, and tasting. Its ergonomic design and durable construction make it an essential tool for every kitchen.",
+    "ThumbnailUrl": "thumbnails/products/spoon_thumbnail.jpg",
+    "Price": 4.99,
+    "DiscountPercentage": 1.53,
+    "StockQuantity": 59,
+    "Rating": 4.03,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Tray",
+    "Description": "The Tray is a functional and decorative item for serving snacks, appetizers, or drinks. Its stylish design makes it a versatile accessory for entertaining guests.",
+    "ThumbnailUrl": "thumbnails/products/tray_thumbnail.jpg",
+    "Price": 16.99,
+    "DiscountPercentage": 7.48,
+    "StockQuantity": 71,
+    "Rating": 4.62,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Wooden Rolling Pin",
+    "Description": "The Wooden Rolling Pin is a classic kitchen tool for rolling out dough for baking. Its smooth surface and sturdy handles make it easy to achieve uniform thickness.",
+    "ThumbnailUrl": "thumbnails/products/wooden-rolling-pin_thumbnail.jpg",
+    "Price": 11.99,
+    "DiscountPercentage": 9.75,
+    "StockQuantity": 80,
+    "Rating": 2.92,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Yellow Peeler",
+    "Description": "The Yellow Peeler is a handy tool for peeling fruits and vegetables with ease. Its bright yellow color adds a cheerful touch to your kitchen gadgets.",
+    "ThumbnailUrl": "thumbnails/products/yellow-peeler_thumbnail.jpg",
+    "Price": 5.99,
+    "DiscountPercentage": 12.48,
+    "StockQuantity": 35,
+    "Rating": 4.24,
+    "BrandId": 31,
+    "TypeId": 25
+  },
+  {
+        "Name": "Apple MacBook Pro 14 Inch Space Grey",
+    "Description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+    "ThumbnailUrl": "thumbnails/products/apple-macbook-pro-14-inch-space-grey_thumbnail.jpg",
+    "Price": 1999.99,
+    "DiscountPercentage": 4.69,
+    "StockQuantity": 24,
+    "Rating": 3.65,
+    "BrandId": 19,
+    "TypeId": 17
+  },
+  {
+        "Name": "Asus Zenbook Pro Dual Screen Laptop",
+    "Description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+    "ThumbnailUrl": "thumbnails/products/asus-zenbook-pro-dual-screen-laptop_thumbnail.jpg",
+    "Price": 1799.99,
+    "DiscountPercentage": 11.14,
+    "StockQuantity": 45,
+    "Rating": 3.95,
+    "BrandId": 26,
+    "TypeId": 17
+  },
+  {
+        "Name": "Huawei Matebook X Pro",
+    "Description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+    "ThumbnailUrl": "thumbnails/products/huawei-matebook-x-pro_thumbnail.jpg",
+    "Price": 1399.99,
+    "DiscountPercentage": 9.38,
+    "StockQuantity": 75,
+    "Rating": 4.98,
+    "BrandId": 21,
+    "TypeId": 17
+  },
+  {
+        "Name": "Lenovo Yoga 920",
+    "Description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+    "ThumbnailUrl": "thumbnails/products/lenovo-yoga-920_thumbnail.jpg",
+    "Price": 1099.99,
+    "DiscountPercentage": 6.55,
+    "StockQuantity": 40,
+    "Rating": 2.86,
+    "BrandId": 31,
+    "TypeId": 17
+  },
+  {
+        "Name": "New DELL XPS 13 9300 Laptop",
+    "Description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+    "ThumbnailUrl": "thumbnails/products/new-dell-xps-13-9300-laptop_thumbnail.jpg",
+    "Price": 1499.99,
+    "DiscountPercentage": 11.89,
+    "StockQuantity": 74,
+    "Rating": 2.67,
+    "BrandId": 31,
+    "TypeId": 17
+  },
+  {
+        "Name": "Blue & Black Check Shirt",
+    "Description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+    "ThumbnailUrl": "thumbnails/products/blue-&-black-check-shirt_thumbnail.jpg",
+    "Price": 29.99,
+    "DiscountPercentage": 15.35,
+    "StockQuantity": 38,
+    "Rating": 3.64,
+    "BrandId": 27,
+    "TypeId": 1
+  },
+  {
+        "Name": "Gigabyte Aorus Men Tshirt",
+    "Description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+    "ThumbnailUrl": "thumbnails/products/gigabyte-aorus-men-tshirt_thumbnail.jpg",
+    "Price": 24.99,
+    "DiscountPercentage": 0.94,
+    "StockQuantity": 90,
+    "Rating": 3.18,
+    "BrandId": 31,
+    "TypeId": 1
+  },
+  {
+        "Name": "Man Plaid Shirt",
+    "Description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+    "ThumbnailUrl": "thumbnails/products/man-plaid-shirt_thumbnail.jpg",
+    "Price": 34.99,
+    "DiscountPercentage": 19.50,
+    "StockQuantity": 82,
+    "Rating": 3.46,
+    "BrandId": 28,
+    "TypeId": 1
+  },
+  {
+        "Name": "Man Short Sleeve Shirt",
+    "Description": "The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
+    "ThumbnailUrl": "thumbnails/products/man-short-sleeve-shirt_thumbnail.jpg",
+    "Price": 19.99,
+    "DiscountPercentage": 6.83,
+    "StockQuantity": 2,
+    "Rating": 2.90,
+    "BrandId": 28,
+    "TypeId": 1
+  },
+  {
+    
+    "Name": "Men Check Shirt",
+    "Description": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
+    "ThumbnailUrl": "thumbnails/products/men-check-shirt_thumbnail.jpg",
+    "Price": 27.99,
+    "DiscountPercentage": 11.38,
+    "StockQuantity": 95,
+    "Rating": 2.72,
+    "BrandId": 27,
+    "TypeId": 1
+  },
+  {
+    
+    "Name": "Nike Air Jordan 1 Red And Black",
+    "Description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+    "ThumbnailUrl": "thumbnails/products/nike-air-jordan-1-red-and-black_thumbnail.jpg",
+    "Price": 149.99,
+    "DiscountPercentage": 4.12,
+    "StockQuantity": 7,
+    "Rating": 4.77,
+    "BrandId": 3,
+    "TypeId": 3
+  },
+  {
+    
+    "Name": "Nike Baseball Cleats",
+    "Description": "Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices.",
+    "ThumbnailUrl": "thumbnails/products/nike-baseball-cleats_thumbnail.jpg",
+    "Price": 79.99,
+    "DiscountPercentage": 18.04,
+    "StockQuantity": 12,
+    "Rating": 3.88,
+    "BrandId": 3,
+    "TypeId": 3
+  },
+  {
+    
+    "Name": "Puma Future Rider Trainers",
+    "Description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+    "ThumbnailUrl": "thumbnails/products/puma-future-rider-trainers_thumbnail.jpg",
+    "Price": 89.99,
+    "DiscountPercentage": 4.20,
+    "StockQuantity": 90,
+    "Rating": 4.90,
+    "BrandId": 4,
+    "TypeId": 3
+  },
+  {
+    
+    "Name": "Sports Sneakers Off White & Red",
+    "Description": "The Sports Sneakers in Off White and Red combine style and functionality, making them a fashionable choice for sports enthusiasts. The red and off-white color combination adds a bold and energetic touch.",
+    "ThumbnailUrl": "thumbnails/products/sports-sneakers-off-white-&-red_thumbnail.jpg",
+    "Price": 119.99,
+    "DiscountPercentage": 4.97,
+    "StockQuantity": 17,
+    "Rating": 4.77,
+    "BrandId": 28,
+    "TypeId": 3
+  },
+  {
+    
+    "Name": "Sports Sneakers Off White Red",
+    "Description": "Another variant of the Sports Sneakers in Off White Red, featuring a unique design. These sneakers offer style and comfort for casual occasions.",
+    "ThumbnailUrl": "thumbnails/products/sports-sneakers-off-white-red_thumbnail.jpg",
+    "Price": 109.99,
+    "DiscountPercentage": 0.04,
+    "StockQuantity": 62,
+    "Rating": 4.69,
+    "BrandId": 28,
+    "TypeId": 3
+  },
+  {
+    
+    "Name": "Brown Leather Belt Watch",
+    "Description": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
+    "ThumbnailUrl": "thumbnails/products/brown-leather-belt-watch_thumbnail.jpg",
+    "Price": 89.99,
+    "DiscountPercentage": 5.99,
+    "StockQuantity": 32,
+    "Rating": 4.19,
+    "BrandId": 30,
+    "TypeId": 6
+  },
+  {
+    
+    "Name": "Longines Master Collection",
+    "Description": "The Longines Master Collection is an elegant and refined watch known for its precision and craftsmanship. With a timeless design, it's a symbol of luxury and sophistication.",
+    "ThumbnailUrl": "thumbnails/products/longines-master-collection_thumbnail.jpg",
+    "Price": 1499.99,
+    "DiscountPercentage": 17.24,
+    "StockQuantity": 100,
+    "Rating": 3.87,
+    "BrandId": 29,
+    "TypeId": 6
+  },
+  {
+    
+    "Name": "Rolex Cellini Date Black Dial",
+    "Description": "The Rolex Cellini Date with Black Dial is a classic and prestigious watch. With a black dial and date complication, it exudes sophistication and is a symbol of Rolex's heritage.",
+    "ThumbnailUrl": "thumbnails/products/rolex-cellini-date-black-dial_thumbnail.jpg",
+    "Price": 8999.99,
+    "DiscountPercentage": 8.88,
+    "StockQuantity": 40,
+    "Rating": 4.97,
+    "BrandId": 29,
+    "TypeId": 6
+  },
+  {
+    
+    "Name": "Rolex Cellini Moonphase",
+    "Description": "The Rolex Cellini Moonphase is a masterpiece of horology, featuring a moon phase complication and exquisite design. It reflects Rolex's commitment to precision and elegance.",
+    "ThumbnailUrl": "thumbnails/products/rolex-cellini-moonphase_thumbnail.jpg",
+    "Price": 12999.99,
+    "DiscountPercentage": 17.52,
+    "StockQuantity": 36,
+    "Rating": 2.58,
+    "BrandId": 29,
+    "TypeId": 6
+  },
+  {
+    
+    "Name": "Rolex Datejust",
+    "Description": "The Rolex Datejust is an iconic and versatile timepiece with a date window. Known for its timeless design and reliability, it's a symbol of Rolex's watchmaking excellence.",
+    "ThumbnailUrl": "thumbnails/products/rolex-datejust_thumbnail.jpg",
+    "Price": 10999.99,
+    "DiscountPercentage": 3.73,
+    "StockQuantity": 86,
+    "Rating": 3.66,
+    "BrandId": 29,
+    "TypeId": 6
+  },
+  {
+    
+    "Name": "Rolex Submariner Watch",
+    "Description": "The Rolex Submariner is a legendary dive watch with a rich history. Known for its durability and water resistance, it's a symbol of adventure and exploration.",
+    "ThumbnailUrl": "thumbnails/products/rolex-submariner-watch_thumbnail.jpg",
+    "Price": 13999.99,
+    "DiscountPercentage": 5.05,
+    "StockQuantity": 55,
+    "Rating": 2.69,
+    "BrandId": 29,
+    "TypeId": 6
+  },
+  {
+    
+    "Name": "Amazon Echo Plus",
+    "Description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+    "ThumbnailUrl": "thumbnails/products/amazon-echo-plus_thumbnail.jpg",
+    "Price": 99.99,
+    "DiscountPercentage": 12.07,
+    "StockQuantity": 61,
+    "Rating": 4.99,
+    "BrandId": 31,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "Apple Airpods",
+    "Description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+    "ThumbnailUrl": "thumbnails/products/apple-airpods_thumbnail.jpg",
+    "Price": 129.99,
+    "DiscountPercentage": 15.54,
+    "StockQuantity": 67,
+    "Rating": 4.15,
+    "BrandId": 19,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "Apple AirPods Max Silver",
+    "Description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style.",
+    "ThumbnailUrl": "thumbnails/products/apple-airpods-max-silver_thumbnail.jpg",
+    "Price": 549.99,
+    "DiscountPercentage": 13.67,
+    "StockQuantity": 59,
+    "Rating": 3.47,
+    "BrandId": 19,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "Apple Airpower Wireless Charger",
+    "Description": "The Apple AirPower Wireless Charger provides a convenient way to charge your compatible Apple devices wirelessly. Simply place your devices on the charging mat for effortless charging.",
+    "ThumbnailUrl": "thumbnails/products/apple-airpower-wireless-charger_thumbnail.jpg",
+    "Price": 79.99,
+    "DiscountPercentage": 4.48,
+    "StockQuantity": 1,
+    "Rating": 3.68,
+    "BrandId": 19,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "Apple HomePod Mini Cosmic Grey",
+    "Description": "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience.",
+    "ThumbnailUrl": "thumbnails/products/apple-homepod-mini-cosmic-grey_thumbnail.jpg",
+    "Price": 99.99,
+    "DiscountPercentage": 18.10,
+    "StockQuantity": 27,
+    "Rating": 4.62,
+    "BrandId": 19,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "Apple iPhone Charger",
+    "Description": "The Apple iPhone Charger is a high-quality charger designed for fast and efficient charging of your iPhone. Ensure your device stays powered up and ready to go.",
+    "ThumbnailUrl": "thumbnails/products/apple-iphone-charger_thumbnail.jpg",
+    "Price": 19.99,
+    "DiscountPercentage": 18.52,
+    "StockQuantity": 31,
+    "Rating": 4.15,
+    "BrandId": 19,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "Apple MagSafe Battery Pack",
+    "Description": "The Apple MagSafe Battery Pack is a portable and convenient way to add extra battery life to your MagSafe-compatible iPhone. Attach it magnetically for a secure connection.",
+    "ThumbnailUrl": "thumbnails/products/apple-magsafe-battery-pack_thumbnail.jpg",
+    "Price": 99.99,
+    "DiscountPercentage": 17.17,
+    "StockQuantity": 1,
+    "Rating": 3.62,
+    "BrandId": 19,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "Apple Watch Series 4 Gold",
+    "Description": "The Apple Watch Series 4 in Gold is a stylish and advanced smartwatch with features like heart rate monitoring, fitness tracking, and a beautiful Retina display.",
+    "ThumbnailUrl": "thumbnails/products/apple-watch-series-4-gold_thumbnail.jpg",
+    "Price": 349.99,
+    "DiscountPercentage": 12.02,
+    "StockQuantity": 33,
+    "Rating": 2.74,
+    "BrandId": 19,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "Beats Flex Wireless Earphones",
+    "Description": "The Beats Flex Wireless Earphones offer a comfortable and versatile audio experience. With magnetic earbuds and up to 12 hours of battery life, they are ideal for everyday use.",
+    "ThumbnailUrl": "thumbnails/products/beats-flex-wireless-earphones_thumbnail.jpg",
+    "Price": 49.99,
+    "DiscountPercentage": 5.73,
+    "StockQuantity": 50,
+    "Rating": 4.24,
+    "BrandId": 31,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "iPhone 12 Silicone Case with MagSafe Plum",
+    "Description": "The iPhone 12 Silicone Case with MagSafe in Plum is a stylish and protective case designed for the iPhone 12. It features MagSafe technology for easy attachment of accessories.",
+    "ThumbnailUrl": "thumbnails/products/iphone-12-silicone-case-with-magsafe-plum_thumbnail.jpg",
+    "Price": 29.99,
+    "DiscountPercentage": 13.85,
+    "StockQuantity": 69,
+    "Rating": 3.62,
+    "BrandId": 19,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "Monopod",
+    "Description": "The Monopod is a versatile camera accessory for stable and adjustable shooting. Perfect for capturing selfies, group photos, and videos with ease.",
+    "ThumbnailUrl": "thumbnails/products/monopod_thumbnail.jpg",
+    "Price": 19.99,
+    "DiscountPercentage": 8.58,
+    "StockQuantity": 48,
+    "Rating": 4.43,
+    "BrandId": 31,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "Selfie Lamp with iPhone",
+    "Description": "The Selfie Lamp with iPhone is a portable and adjustable LED light designed to enhance your selfies and video calls. Attach it to your iPhone for well-lit photos.",
+    "ThumbnailUrl": "thumbnails/products/selfie-lamp-with-iphone_thumbnail.jpg",
+    "Price": 14.99,
+    "DiscountPercentage": 19.40,
+    "StockQuantity": 58,
+    "Rating": 3.55,
+    "BrandId": 31,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "Selfie Stick Monopod",
+    "Description": "The Selfie Stick Monopod is a extendable and foldable device for capturing the perfect selfie or group photo. Compatible with smartphones and cameras.",
+    "ThumbnailUrl": "thumbnails/products/selfie-stick-monopod_thumbnail.jpg",
+    "Price": 12.99,
+    "DiscountPercentage": 19.12,
+    "StockQuantity": 11,
+    "Rating": 3.88,
+    "BrandId": 31,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "TV Studio Camera Pedestal",
+    "Description": "The TV Studio Camera Pedestal is a professional-grade camera support system for smooth and precise camera movements in a studio setting. Ideal for broadcast and production.",
+    "ThumbnailUrl": "thumbnails/products/tv-studio-camera-pedestal_thumbnail.jpg",
+    "Price": 499.99,
+    "DiscountPercentage": 8.31,
+    "StockQuantity": 15,
+    "Rating": 2.78,
+    "BrandId": 31,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "Generic Motorcycle",
+    "Description": "The Generic Motorcycle is a versatile and reliable bike suitable for various riding preferences. With a balanced design, it provides a comfortable and efficient riding experience.",
+    "ThumbnailUrl": "thumbnails/products/generic-motorcycle_thumbnail.jpg",
+    "Price": 3999.99,
+    "DiscountPercentage": 12.10,
+    "StockQuantity": 34,
+    "Rating": 4.91,
+    "BrandId": 31,
+    "TypeId": 29
+  },
+  {
+    
+    "Name": "Kawasaki Z800",
+    "Description": "The Kawasaki Z800 is a powerful and agile sportbike known for its striking design and performance. It's equipped with advanced features, making it a favorite among motorcycle enthusiasts.",
+    "ThumbnailUrl": "thumbnails/products/kawasaki-z800_thumbnail.jpg",
+    "Price": 8999.99,
+    "DiscountPercentage": 9.77,
+    "StockQuantity": 52,
+    "Rating": 3.98,
+    "BrandId": 31,
+    "TypeId": 29
+  },
+  {
+    
+    "Name": "MotoGP CI.H1",
+    "Description": "The MotoGP CI.H1 is a high-performance motorcycle inspired by MotoGP racing technology. It offers cutting-edge features and precision engineering for an exhilarating riding experience.",
+    "ThumbnailUrl": "thumbnails/products/motogp-ci.h1_thumbnail.jpg",
+    "Price": 14999.99,
+    "DiscountPercentage": 6.92,
+    "StockQuantity": 10,
+    "Rating": 2.97,
+    "BrandId": 31,
+    "TypeId": 29
+  },
+  {
+    
+    "Name": "Scooter Motorcycle",
+    "Description": "The Scooter Motorcycle is a practical and fuel-efficient bike ideal for urban commuting. It features a step-through design and user-friendly controls for easy maneuverability.",
+    "ThumbnailUrl": "thumbnails/products/scooter-motorcycle_thumbnail.jpg",
+    "Price": 2999.99,
+    "DiscountPercentage": 6.27,
+    "StockQuantity": 84,
+    "Rating": 2.53,
+    "BrandId": 31,
+    "TypeId": 29
+  },
+  {
+    
+    "Name": "Sportbike Motorcycle",
+    "Description": "The Sportbike Motorcycle is designed for speed and agility, with a sleek and aerodynamic profile. It's suitable for riders looking for a dynamic and thrilling riding experience.",
+    "ThumbnailUrl": "thumbnails/products/sportbike-motorcycle_thumbnail.jpg",
+    "Price": 7499.99,
+    "DiscountPercentage": 11.58,
+    "StockQuantity": 0,
+    "Rating": 3.94,
+    "BrandId": 31,
+    "TypeId": 29
+  },
+  {
+    
+    "Name": "Attitude Super Leaves Hand Soap",
+    "Description": "Attitude Super Leaves Hand Soap is a natural and nourishing hand soap enriched with the goodness of super leaves. It cleanses and moisturizes your hands, leaving them feeling fresh and soft.",
+    "ThumbnailUrl": "thumbnails/products/attitude-super-leaves-hand-soap_thumbnail.jpg",
+    "Price": 8.99,
+    "DiscountPercentage": 18.49,
+    "StockQuantity": 94,
+    "Rating": 3.19,
+    "BrandId": 31,
+    "TypeId": 22
+  },
+  {
+    
+    "Name": "Olay Ultra Moisture Shea Butter Body Wash",
+    "Description": "Olay Ultra Moisture Shea Butter Body Wash is a luxurious body wash that hydrates and nourishes your skin with the moisturizing power of shea butter. Enjoy a rich lather and silky-smooth skin.",
+    "ThumbnailUrl": "thumbnails/products/olay-ultra-moisture-shea-butter-body-wash_thumbnail.jpg",
+    "Price": 12.99,
+    "DiscountPercentage": 16.39,
+    "StockQuantity": 34,
+    "Rating": 4.51,
+    "BrandId": 31,
+    "TypeId": 22
+  },
+  {
+    
+    "Name": "Vaseline Men Body and Face Lotion",
+    "Description": "Vaseline Men Body and Face Lotion is a specially formulated lotion designed to provide long-lasting moisture to men's skin. It absorbs quickly and helps keep the skin hydrated and healthy.",
+    "ThumbnailUrl": "thumbnails/products/vaseline-men-body-and-face-lotion_thumbnail.jpg",
+    "Price": 9.99,
+    "DiscountPercentage": 13.39,
+    "StockQuantity": 95,
+    "Rating": 3.16,
+    "BrandId": 31,
+    "TypeId": 22
+  },
+  {
+    
+    "Name": "iPhone 5s",
+    "Description": "The iPhone 5s is a classic smartphone known for its compact design and advanced features during its release. While it's an older model, it still provides a reliable user experience.",
+    "ThumbnailUrl": "thumbnails/products/iphone-5s_thumbnail.jpg",
+    "Price": 199.99,
+    "DiscountPercentage": 12.91,
+    "StockQuantity": 25,
+    "Rating": 2.83,
+    "BrandId": 19,
+    "TypeId": 16
+  },
+  {
+    
+    "Name": "iPhone 6",
+    "Description": "The iPhone 6 is a stylish and capable smartphone with a larger display and improved performance. It introduced new features and design elements, making it a popular choice in its time.",
+    "ThumbnailUrl": "thumbnails/products/iphone-6_thumbnail.jpg",
+    "Price": 299.99,
+    "DiscountPercentage": 6.69,
+    "StockQuantity": 60,
+    "Rating": 3.41,
+    "BrandId": 19,
+    "TypeId": 16
+  },
+  {
+    
+    "Name": "iPhone 13 Pro",
+    "Description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology.",
+    "ThumbnailUrl": "thumbnails/products/iphone-13-pro_thumbnail.jpg",
+    "Price": 1099.99,
+    "DiscountPercentage": 9.37,
+    "StockQuantity": 56,
+    "Rating": 4.12,
+    "BrandId": 19,
+    "TypeId": 16
+  },
+  {
+    
+    "Name": "iPhone X",
+    "Description": "The iPhone X is a flagship smartphone featuring a bezel-less OLED display, facial recognition technology (Face ID), and impressive performance. It represents a milestone in iPhone design and innovation.",
+    "ThumbnailUrl": "thumbnails/products/iphone-x_thumbnail.jpg",
+    "Price": 899.99,
+    "DiscountPercentage": 19.59,
+    "StockQuantity": 37,
+    "Rating": 2.51,
+    "BrandId": 19,
+    "TypeId": 16
+  },
+  {
+    
+    "Name": "Oppo A57",
+    "Description": "The Oppo A57 is a mid-range smartphone known for its sleek design and capable features. It offers a balance of performance and affordability, making it a popular choice.",
+    "ThumbnailUrl": "thumbnails/products/oppo-a57_thumbnail.jpg",
+    "Price": 249.99,
+    "DiscountPercentage": 2.43,
+    "StockQuantity": 19,
+    "Rating": 3.94,
+    "BrandId": 22,
+    "TypeId": 16
+  },
+  {
+    
+    "Name": "Oppo F19 Pro Plus",
+    "Description": "The Oppo F19 Pro Plus is a feature-rich smartphone with a focus on camera capabilities. It boasts advanced photography features and a powerful performance for a premium user experience.",
+    "ThumbnailUrl": "thumbnails/products/oppo-f19-pro-plus_thumbnail.jpg",
+    "Price": 399.99,
+    "DiscountPercentage": 18.64,
+    "StockQuantity": 78,
+    "Rating": 3.51,
+    "BrandId": 22,
+    "TypeId": 16
+  },
+  {
+    
+    "Name": "Oppo K1",
+    "Description": "The Oppo K1 series offers a range of smartphones with various features and specifications. Known for their stylish design and reliable performance, the Oppo K1 series caters to diverse user preferences.",
+    "ThumbnailUrl": "thumbnails/products/oppo-k1_thumbnail.jpg",
+    "Price": 299.99,
+    "DiscountPercentage": 18.29,
+    "StockQuantity": 55,
+    "Rating": 4.25,
+    "BrandId": 22,
+    "TypeId": 16
+  },
+  {
+    
+    "Name": "Realme C35",
+    "Description": "The Realme C35 is a budget-friendly smartphone with a focus on providing essential features for everyday use. It offers a reliable performance and user-friendly experience.",
+    "ThumbnailUrl": "thumbnails/products/realme-c35_thumbnail.jpg",
+    "Price": 149.99,
+    "DiscountPercentage": 15.30,
+    "StockQuantity": 48,
+    "Rating": 4.20,
+    "BrandId": 23,
+    "TypeId": 16
+  },
+  {
+    
+    "Name": "Realme X",
+    "Description": "The Realme X is a mid-range smartphone known for its sleek design and impressive display. It offers a good balance of performance and camera capabilities for users seeking a quality device.",
+    "ThumbnailUrl": "thumbnails/products/realme-x_thumbnail.jpg",
+    "Price": 299.99,
+    "DiscountPercentage": 6.95,
+    "StockQuantity": 12,
+    "Rating": 3.70,
+    "BrandId": 23,
+    "TypeId": 16
+  },
+  {
+    
+    "Name": "Realme XT",
+    "Description": "The Realme XT is a feature-rich smartphone with a focus on camera technology. It comes equipped with advanced camera sensors, delivering high-quality photos and videos for photography enthusiasts.",
+    "ThumbnailUrl": "thumbnails/products/realme-xt_thumbnail.jpg",
+    "Price": 349.99,
+    "DiscountPercentage": 11.51,
+    "StockQuantity": 80,
+    "Rating": 4.58,
+    "BrandId": 23,
+    "TypeId": 16
+  },
+  {
+    
+    "Name": "Samsung Galaxy S7",
+    "Description": "The Samsung Galaxy S7 is a flagship smartphone known for its sleek design and advanced features. It features a high-resolution display, powerful camera, and robust performance.",
+    "ThumbnailUrl": "thumbnails/products/samsung-galaxy-s7_thumbnail.jpg",
+    "Price": 299.99,
+    "DiscountPercentage": 19.55,
+    "StockQuantity": 67,
+    "Rating": 3.30,
+    "BrandId": 20,
+    "TypeId": 16
+  },
+  {
+    
+    "Name": "Samsung Galaxy S8",
+    "Description": "The Samsung Galaxy S8 is a premium smartphone with an Infinity Display, offering a stunning visual experience. It boasts advanced camera capabilities and cutting-edge technology.",
+    "ThumbnailUrl": "thumbnails/products/samsung-galaxy-s8_thumbnail.jpg",
+    "Price": 499.99,
+    "DiscountPercentage": 19.45,
+    "StockQuantity": 0,
+    "Rating": 4.40,
+    "BrandId": 20,
+    "TypeId": 16
+  },
+  {
+    
+    "Name": "Samsung Galaxy S10",
+    "Description": "The Samsung Galaxy S10 is a flagship device featuring a dynamic AMOLED display, versatile camera system, and powerful performance. It represents innovation and excellence in smartphone technology.",
+    "ThumbnailUrl": "thumbnails/products/samsung-galaxy-s10_thumbnail.jpg",
+    "Price": 699.99,
+    "DiscountPercentage": 5.59,
+    "StockQuantity": 19,
+    "Rating": 3.06,
+    "BrandId": 20,
+    "TypeId": 16
+  },
+  {
+    
+    "Name": "Vivo S1",
+    "Description": "The Vivo S1 is a stylish and mid-range smartphone offering a blend of design and performance. It features a vibrant display, capable camera system, and reliable functionality.",
+    "ThumbnailUrl": "thumbnails/products/vivo-s1_thumbnail.jpg",
+    "Price": 249.99,
+    "DiscountPercentage": 10.17,
+    "StockQuantity": 50,
+    "Rating": 3.50,
+    "BrandId": 31,
+    "TypeId": 16
+  },
+  {
+    
+    "Name": "Vivo V9",
+    "Description": "The Vivo V9 is a smartphone known for its sleek design and emphasis on capturing high-quality selfies. It features a notch display, dual-camera setup, and a modern design.",
+    "ThumbnailUrl": "thumbnails/products/vivo-v9_thumbnail.jpg",
+    "Price": 299.99,
+    "DiscountPercentage": 17.67,
+    "StockQuantity": 82,
+    "Rating": 3.60,
+    "BrandId": 31,
+    "TypeId": 16
+  },
+  {
+    
+    "Name": "Vivo X21",
+    "Description": "The Vivo X21 is a premium smartphone with a focus on cutting-edge technology. It features an in-display fingerprint sensor, a high-resolution display, and advanced camera capabilities.",
+    "ThumbnailUrl": "thumbnails/products/vivo-x21_thumbnail.jpg",
+    "Price": 499.99,
+    "DiscountPercentage": 17.41,
+    "StockQuantity": 7,
+    "Rating": 4.26,
+    "BrandId": 31,
+    "TypeId": 16
+  },
+  {
+    
+    "Name": "American Football",
+    "Description": "The American Football is a classic ball used in American football games. It is designed for throwing and catching, making it an essential piece of equipment for the sport.",
+    "ThumbnailUrl": "thumbnails/products/american-football_thumbnail.jpg",
+    "Price": 19.99,
+    "DiscountPercentage": 4.93,
+    "StockQuantity": 53,
+    "Rating": 4.91,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "Baseball Ball",
+    "Description": "The Baseball Ball is a standard baseball used in baseball games. It features a durable leather cover and is designed for pitching, hitting, and fielding in the game of baseball.",
+    "ThumbnailUrl": "thumbnails/products/baseball-ball_thumbnail.jpg",
+    "Price": 8.99,
+    "DiscountPercentage": 1.71,
+    "StockQuantity": 100,
+    "Rating": 2.57,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "Baseball Glove",
+    "Description": "The Baseball Glove is a protective glove worn by baseball players. It is designed to catch and field the baseball, providing players with comfort and control during the game.",
+    "ThumbnailUrl": "thumbnails/products/baseball-glove_thumbnail.jpg",
+    "Price": 24.99,
+    "DiscountPercentage": 2.90,
+    "StockQuantity": 22,
+    "Rating": 3.96,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "Basketball",
+    "Description": "The Basketball is a standard ball used in basketball games. It is designed for dribbling, shooting, and passing in the game of basketball, suitable for both indoor and outdoor play.",
+    "ThumbnailUrl": "thumbnails/products/basketball_thumbnail.jpg",
+    "Price": 14.99,
+    "DiscountPercentage": 7.44,
+    "StockQuantity": 75,
+    "Rating": 4.66,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "Basketball Rim",
+    "Description": "The Basketball Rim is a sturdy hoop and net assembly mounted on a basketball backboard. It provides a target for shooting and scoring in the game of basketball.",
+    "ThumbnailUrl": "thumbnails/products/basketball-rim_thumbnail.jpg",
+    "Price": 39.99,
+    "DiscountPercentage": 7.74,
+    "StockQuantity": 43,
+    "Rating": 4.60,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "Cricket Ball",
+    "Description": "The Cricket Ball is a hard leather ball used in the sport of cricket. It is bowled and batted in the game, and its hardness and seam contribute to the dynamics of cricket play.",
+    "ThumbnailUrl": "thumbnails/products/cricket-ball_thumbnail.jpg",
+    "Price": 12.99,
+    "DiscountPercentage": 8.63,
+    "StockQuantity": 30,
+    "Rating": 3.53,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "Cricket Bat",
+    "Description": "The Cricket Bat is an essential piece of cricket equipment used by batsmen to hit the cricket ball. It is made of wood and comes in various sizes and designs.",
+    "ThumbnailUrl": "thumbnails/products/cricket-bat_thumbnail.jpg",
+    "Price": 29.99,
+    "DiscountPercentage": 3.29,
+    "StockQuantity": 98,
+    "Rating": 3.17,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "Cricket Helmet",
+    "Description": "The Cricket Helmet is a protective headgear worn by cricket players, especially batsmen and wicketkeepers. It provides protection against fast bowling and bouncers.",
+    "ThumbnailUrl": "thumbnails/products/cricket-helmet_thumbnail.jpg",
+    "Price": 44.99,
+    "DiscountPercentage": 9.64,
+    "StockQuantity": 10,
+    "Rating": 4.69,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "Cricket Wicket",
+    "Description": "The Cricket Wicket is a set of three stumps and two bails, forming a wicket used in the sport of cricket. Batsmen aim to protect the wicket while scoring runs.",
+    "ThumbnailUrl": "thumbnails/products/cricket-wicket_thumbnail.jpg",
+    "Price": 29.99,
+    "DiscountPercentage": 16.93,
+    "StockQuantity": 25,
+    "Rating": 4.73,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "Feather Shuttlecock",
+    "Description": "The Feather Shuttlecock is used in the sport of badminton. It features natural feathers and is designed for high-speed play, providing stability and accuracy during matches.",
+    "ThumbnailUrl": "thumbnails/products/feather-shuttlecock_thumbnail.jpg",
+    "Price": 5.99,
+    "DiscountPercentage": 2.95,
+    "StockQuantity": 95,
+    "Rating": 2.85,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "Football",
+    "Description": "The Football, also known as a soccer ball, is the standard ball used in the sport of football (soccer). It is designed for kicking and passing in the game.",
+    "ThumbnailUrl": "thumbnails/products/football_thumbnail.jpg",
+    "Price": 17.99,
+    "DiscountPercentage": 5.15,
+    "StockQuantity": 96,
+    "Rating": 3.28,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "Golf Ball",
+    "Description": "The Golf Ball is a small ball used in the sport of golf. It features dimples on its surface, providing aerodynamic lift and distance when struck by a golf club.",
+    "ThumbnailUrl": "thumbnails/products/golf-ball_thumbnail.jpg",
+    "Price": 9.99,
+    "DiscountPercentage": 17.37,
+    "StockQuantity": 84,
+    "Rating": 4.30,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "Iron Golf",
+    "Description": "The Iron Golf is a type of golf club designed for various golf shots. It features a solid metal head and is used for approach shots, chipping, and other golfing techniques.",
+    "ThumbnailUrl": "thumbnails/products/iron-golf_thumbnail.jpg",
+    "Price": 49.99,
+    "DiscountPercentage": 6.53,
+    "StockQuantity": 90,
+    "Rating": 4.41,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "Metal Baseball Bat",
+    "Description": "The Metal Baseball Bat is a durable and lightweight baseball bat made from metal alloys. It is commonly used in baseball games for hitting and batting practice.",
+    "ThumbnailUrl": "thumbnails/products/metal-baseball-bat_thumbnail.jpg",
+    "Price": 29.99,
+    "DiscountPercentage": 19.51,
+    "StockQuantity": 16,
+    "Rating": 4.66,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "Tennis Ball",
+    "Description": "The Tennis Ball is a standard ball used in the sport of tennis. It is designed for bouncing and hitting with tennis rackets during matches or practice sessions.",
+    "ThumbnailUrl": "thumbnails/products/tennis-ball_thumbnail.jpg",
+    "Price": 6.99,
+    "DiscountPercentage": 11.76,
+    "StockQuantity": 28,
+    "Rating": 4.06,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "Tennis Racket",
+    "Description": "The Tennis Racket is an essential piece of equipment for playing tennis. It features a strung frame designed for striking the tennis ball with power and control.",
+    "ThumbnailUrl": "thumbnails/products/tennis-racket_thumbnail.jpg",
+    "Price": 49.99,
+    "DiscountPercentage": 16.22,
+    "StockQuantity": 76,
+    "Rating": 3.82,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "Volleyball",
+    "Description": "The Volleyball is a standard ball used in volleyball matches. It is designed for passing, setting, and spiking, suitable for both beach and indoor volleyball.",
+    "ThumbnailUrl": "thumbnails/products/volleyball_thumbnail.jpg",
+    "Price": 11.99,
+    "DiscountPercentage": 12.87,
+    "StockQuantity": 20,
+    "Rating": 3.19,
+    "BrandId": 31,
+    "TypeId": 27
+  },
+  {
+    
+    "Name": "American Aviator Sunglasses",
+    "Description": "The American Aviator Sunglasses offer a classic and timeless style with metal frames and UV-protected lenses. Perfect for a cool and protected outdoor look.",
+    "ThumbnailUrl": "thumbnails/products/american-aviator-sunglasses_thumbnail.jpg",
+    "Price": 12.99,
+    "DiscountPercentage": 12.11,
+    "StockQuantity": 8,
+    "Rating": 4.52,
+    "BrandId": 31,
+    "TypeId": 30
+  },
+  {
+    
+    "Name": "Classic Aviator Sunglasses",
+    "Description": "The Classic Aviator Sunglasses feature iconic teardrop lenses and lightweight metal frames for a stylish and comfortable fit. A versatile accessory for sunny days.",
+    "ThumbnailUrl": "thumbnails/products/classic-aviator-sunglasses_thumbnail.jpg",
+    "Price": 14.99,
+    "DiscountPercentage": 17.06,
+    "StockQuantity": 50,
+    "Rating": 3.57,
+    "BrandId": 31,
+    "TypeId": 30
+  },
+  {
+    
+    "Name": "Green Oval Sunglasses",
+    "Description": "The Green Oval Sunglasses feature a trendy and retro-inspired design with green-tinted lenses and a sleek oval frame. Make a fashion statement in the sun.",
+    "ThumbnailUrl": "thumbnails/products/green-oval-sunglasses_thumbnail.jpg",
+    "Price": 16.99,
+    "DiscountPercentage": 14.12,
+    "StockQuantity": 72,
+    "Rating": 2.81,
+    "BrandId": 31,
+    "TypeId": 30
+  },
+  {
+    
+    "Name": "Green Round Sunglasses",
+    "Description": "The Green Round Sunglasses offer a unique and bohemian vibe with round green lenses and slim wire frames. Ideal for festival looks or daily wear.",
+    "ThumbnailUrl": "thumbnails/products/green-round-sunglasses_thumbnail.jpg",
+    "Price": 15.99,
+    "DiscountPercentage": 11.23,
+    "StockQuantity": 30,
+    "Rating": 4.10,
+    "BrandId": 31,
+    "TypeId": 30
+  },
+  {
+    
+    "Name": "Multicolor Oval Sunglasses",
+    "Description": "The Multicolor Oval Sunglasses feature vibrant and colorful frames with protective lenses. Add a pop of fun and style to your summer outfits.",
+    "ThumbnailUrl": "thumbnails/products/multicolor-oval-sunglasses_thumbnail.jpg",
+    "Price": 18.99,
+    "DiscountPercentage": 9.45,
+    "StockQuantity": 88,
+    "Rating": 3.95,
+    "BrandId": 31,
+    "TypeId": 30
+  },
+  {
+    
+    "Name": "Asian Gold Blue Tablet",
+    "Description": "The Asian Gold Blue Tablet is a sleek tablet featuring a vibrant display and versatile capabilities for media consumption, gaming, and productivity.",
+    "ThumbnailUrl": "thumbnails/products/asian-gold-blue-tablet_thumbnail.jpg",
+    "Price": 199.99,
+    "DiscountPercentage": 11.23,
+    "StockQuantity": 45,
+    "Rating": 3.80,
+    "BrandId": 31,
+    "TypeId": 18
+  },
+  {
+    
+    "Name": "iPad Mini 2021 Starlight",
+    "Description": "The iPad Mini 2021 in Starlight features a compact 8.3-inch Liquid Retina display, powerful A15 Bionic chip, and support for Apple Pencil, perfect for portable creativity.",
+    "ThumbnailUrl": "thumbnails/products/ipad-mini-2021-starlight_thumbnail.jpg",
+    "Price": 499.99,
+    "DiscountPercentage": 5.40,
+    "StockQuantity": 32,
+    "Rating": 4.75,
+    "BrandId": 19,
+    "TypeId": 18
+  },
+  {
+    
+    "Name": "Samsung Galaxy Tab S8 Plus Grey",
+    "Description": "The Samsung Galaxy Tab S8 Plus in Grey boasts a massive AMOLED screen, included S Pen, and top-tier performance for multitasking and entertainment.",
+    "ThumbnailUrl": "thumbnails/products/samsung-galaxy-tab-s8-plus-grey_thumbnail.jpg",
+    "Price": 899.99,
+    "DiscountPercentage": 14.20,
+    "StockQuantity": 15,
+    "Rating": 4.65,
+    "BrandId": 20,
+    "TypeId": 18
+  },
+  {
+    
+    "Name": "Blue Women's Handbag",
+    "Description": "A stylish blue handbag crafted from high-quality synthetic leather with ample storage compartments for everyday essentials.",
+    "ThumbnailUrl": "thumbnails/products/blue-womens-handbag_thumbnail.jpg",
+    "Price": 49.99,
+    "DiscountPercentage": 10.00,
+    "StockQuantity": 60,
+    "Rating": 4.25,
+    "BrandId": 27,
+    "TypeId": 12
+  },
+  {
+    
+    "Name": "Heshe Leather Handbag",
+    "Description": "Elegant Heshe genuine leather shoulder handbag featuring top zipper closure and durable hardware.",
+    "ThumbnailUrl": "thumbnails/products/heshe-leather-handbag_thumbnail.jpg",
+    "Price": 89.99,
+    "DiscountPercentage": 15.00,
+    "StockQuantity": 40,
+    "Rating": 4.60,
+    "BrandId": 27,
+    "TypeId": 12
+  },
+  {
+    
+    "Name": "Prada Women Bag",
+    "Description": "Luxury designer handbag by Prada with iconic logo plaque, dual handles, and structured silhouette.",
+    "ThumbnailUrl": "thumbnails/products/prada-women-bag_thumbnail.jpg",
+    "Price": 1299.99,
+    "DiscountPercentage": 5.00,
+    "StockQuantity": 10,
+    "Rating": 4.90,
+    "BrandId": 16,
+    "TypeId": 12
+  },
+  {
+    
+    "Name": "White Handbag",
+    "Description": "Chic and versatile white top-handle handbag, perfect for complementing bright summer outfits.",
+    "ThumbnailUrl": "thumbnails/products/white-handbag_thumbnail.jpg",
+    "Price": 39.99,
+    "DiscountPercentage": 8.50,
+    "StockQuantity": 75,
+    "Rating": 3.90,
+    "BrandId": 27,
+    "TypeId": 12
+  },
+  {
+    
+    "Name": "Corset Top Short Dress",
+    "Description": "A flattering corset-inspired short dress featuring structured boning and sweetheart neckline.",
+    "ThumbnailUrl": "thumbnails/products/corset-top-short-dress_thumbnail.jpg",
+    "Price": 69.99,
+    "DiscountPercentage": 12.00,
+    "StockQuantity": 35,
+    "Rating": 4.15,
+    "BrandId": 27,
+    "TypeId": 9
+  },
+  {
+    
+    "Name": "Floral Dress",
+    "Description": "Vibrant floral print maxi dress crafted from breathable chiffon fabric with tiered skirt layers.",
+    "ThumbnailUrl": "thumbnails/products/floral-dress_thumbnail.jpg",
+    "Price": 59.99,
+    "DiscountPercentage": 10.00,
+    "StockQuantity": 50,
+    "Rating": 4.45,
+    "BrandId": 27,
+    "TypeId": 9
+  },
+  {
+    
+    "Name": "Grace Karin Women Summer Dress",
+    "Description": "A classic Grace Karin A-line summer dress featuring vintage polka dot pattern and waist sash.",
+    "ThumbnailUrl": "thumbnails/products/grace-karin-women-summer-dress_thumbnail.jpg",
+    "Price": 45.99,
+    "DiscountPercentage": 14.00,
+    "StockQuantity": 65,
+    "Rating": 4.30,
+    "BrandId": 27,
+    "TypeId": 9
+  },
+  {
+    
+    "Name": "Puff Sleeve White Mini Dress",
+    "Description": "Trendy white mini dress with romantic puff sleeves, smocked back, and square neckline.",
+    "ThumbnailUrl": "thumbnails/products/puff-sleeve-white-mini-dress_thumbnail.jpg",
+    "Price": 54.99,
+    "DiscountPercentage": 9.00,
+    "StockQuantity": 42,
+    "Rating": 4.10,
+    "BrandId": 27,
+    "TypeId": 9
+  },
+  {
+    
+    "Name": "Green Bell Bottom Evening Dress",
+    "Description": "Stunning emerald green evening gown featuring flared bell-bottom hemline and fitted silhouette.",
+    "ThumbnailUrl": "thumbnails/products/green-bell-bottom-evening-dress_thumbnail.jpg",
+    "Price": 149.99,
+    "DiscountPercentage": 18.00,
+    "StockQuantity": 20,
+    "Rating": 4.70,
+    "BrandId": 27,
+    "TypeId": 9
+  },
+  {
+    
+    "Name": "Emerald Ring",
+    "Description": "Exquisite sterling silver ring set with a brilliant oval-cut lab-created emerald focal stone.",
+    "ThumbnailUrl": "thumbnails/products/emerald-ring_thumbnail.jpg",
+    "Price": 199.99,
+    "DiscountPercentage": 15.00,
+    "StockQuantity": 18,
+    "Rating": 4.85,
+    "BrandId": 31,
+    "TypeId": 13
+  },
+  {
+    
+    "Name": "Green Oval Earring",
+    "Description": "Dainty drop earrings featuring faceted green oval crystals surrounded by cubic zirconia pavé.",
+    "ThumbnailUrl": "thumbnails/products/green-oval-earring_thumbnail.jpg",
+    "Price": 29.99,
+    "DiscountPercentage": 8.00,
+    "StockQuantity": 90,
+    "Rating": 4.00,
+    "BrandId": 31,
+    "TypeId": 13
+  },
+  {
+    
+    "Name": "Tropical Flower Earrings",
+    "Description": "Handcrafted tropical flower stud earrings with vibrant enamel painting and gold-plated details.",
+    "ThumbnailUrl": "thumbnails/products/tropical-flower-earrings_thumbnail.jpg",
+    "Price": 19.99,
+    "DiscountPercentage": 5.00,
+    "StockQuantity": 110,
+    "Rating": 4.20,
+    "BrandId": 31,
+    "TypeId": 13
+  },
+  {
+    
+    "Name": "Black High Heels",
+    "Description": "Classic black stiletto pumps crafted from sleek faux leather, perfect for formal and party wear.",
+    "ThumbnailUrl": "thumbnails/products/black-high-heels_thumbnail.jpg",
+    "Price": 79.99,
+    "DiscountPercentage": 12.00,
+    "StockQuantity": 45,
+    "Rating": 4.30,
+    "BrandId": 27,
+    "TypeId": 10
+  },
+  {
+    
+    "Name": "Corset High Heel Boots",
+    "Description": "Edgy lace-up corset boots with high heel design and side zipper closure for easy wear.",
+    "ThumbnailUrl": "thumbnails/products/corset-high-heel-boots_thumbnail.jpg",
+    "Price": 119.99,
+    "DiscountPercentage": 10.00,
+    "StockQuantity": 28,
+    "Rating": 4.50,
+    "BrandId": 27,
+    "TypeId": 10
+  },
+  {
+    
+    "Name": "Faux Suede High Heel Boots",
+    "Description": "Soft knee-high boots made from premium faux suede with a comfortable block high heel.",
+    "ThumbnailUrl": "thumbnails/products/faux-suede-high-heel-boots_thumbnail.jpg",
+    "Price": 99.99,
+    "DiscountPercentage": 14.00,
+    "StockQuantity": 33,
+    "Rating": 4.10,
+    "BrandId": 27,
+    "TypeId": 10
+  },
+  {
+    
+    "Name": "Golden High Heels",
+    "Description": "Dazzling metallic gold high heels featuring crystal embellishments on slender straps.",
+    "ThumbnailUrl": "thumbnails/products/golden-high-heels_thumbnail.jpg",
+    "Price": 89.99,
+    "DiscountPercentage": 7.50,
+    "StockQuantity": 22,
+    "Rating": 4.60,
+    "BrandId": 27,
+    "TypeId": 10
+  },
+  {
+    
+    "Name": "Red High Heels",
+    "Description": "Bold red pointed-toe heels with glossy patent finish, designed to make a confident statement.",
+    "ThumbnailUrl": "thumbnails/products/red-high-heels_thumbnail.jpg",
+    "Price": 74.99,
+    "DiscountPercentage": 11.00,
+    "StockQuantity": 38,
+    "Rating": 4.25,
+    "BrandId": 27,
+    "TypeId": 10
+  },
+  {
+    
+    "Name": "IWC Pilot's Watch Automatic 36",
+    "Description": "Swiss luxury pilot's watch featuring clean dial design, automatic movement, and stainless steel case.",
+    "ThumbnailUrl": "thumbnails/products/iwc-pilots-watch-automatic-36_thumbnail.jpg",
+    "Price": 3999.99,
+    "DiscountPercentage": 6.00,
+    "StockQuantity": 8,
+    "Rating": 4.95,
+    "BrandId": 29,
+    "TypeId": 14
+  },
+  {
+    
+    "Name": "Leather Strap Watch",
+    "Description": "Classic minimalist women's watch with rose gold bezel and genuine brown leather strap.",
+    "ThumbnailUrl": "thumbnails/products/leather-strap-watch_thumbnail.jpg",
+    "Price": 69.99,
+    "DiscountPercentage": 10.00,
+    "StockQuantity": 70,
+    "Rating": 4.10,
+    "BrandId": 30,
+    "TypeId": 14
+  },
+  {
+    
+    "Name": "Rolex Datejust Women",
+    "Description": "Icons of luxury, the women's Rolex Datejust features a fluted bezel and jubilee bracelet.",
+    "ThumbnailUrl": "thumbnails/products/rolex-datejust-women_thumbnail.jpg",
+    "Price": 9499.99,
+    "DiscountPercentage": 4.00,
+    "StockQuantity": 12,
+    "Rating": 4.90,
+    "BrandId": 29,
+    "TypeId": 14
+  },
+  {
+    
+    "Name": "Watch Gold Women",
+    "Description": "Elegant gold-plated women's watch with mother-of-pearl dial and sparkling index markers.",
+    "ThumbnailUrl": "thumbnails/products/watch-gold-women_thumbnail.jpg",
+    "Price": 129.99,
+    "DiscountPercentage": 13.00,
+    "StockQuantity": 45,
+    "Rating": 4.35,
+    "BrandId": 30,
+    "TypeId": 14
+  },
+  {
+    
+    "Name": "Women's Gold Watch",
+    "Description": "Sleek round gold watch featuring quartz movement, scratch-resistant glass, and fold-over clasp.",
+    "ThumbnailUrl": "thumbnails/products/womens-gold-watch_thumbnail.jpg",
+    "Price": 119.99,
+    "DiscountPercentage": 9.00,
+    "StockQuantity": 50,
+    "Rating": 4.20,
+    "BrandId": 30,
+    "TypeId": 14
+  },
+  {
+    
+    "Name": "Almond Corset crop Top",
+    "Description": "Trendy almond-colored corset crop top made from ribbed stretch knit fabric.",
+    "ThumbnailUrl": "thumbnails/products/almond-corset-crop-top_thumbnail.jpg",
+    "Price": 24.99,
+    "DiscountPercentage": 10.00,
+    "StockQuantity": 80,
+    "Rating": 4.15,
+    "BrandId": 27,
+    "TypeId": 7
+  },
+  {
+    
+    "Name": "Blouse Women Crop Top",
+    "Description": "Lightweight chiffon floral blouse crop top with sweet ruffled trim and tie-front closure.",
+    "ThumbnailUrl": "thumbnails/products/blouse-women-crop-top_thumbnail.jpg",
+    "Price": 29.99,
+    "DiscountPercentage": 8.00,
+    "StockQuantity": 65,
+    "Rating": 4.05,
+    "BrandId": 27,
+    "TypeId": 7
+  },
+  {
+    
+    "Name": "Corset Crop Top Shoulder High",
+    "Description": "Fitted off-the-shoulder corset crop top with accent stitching and back zipper.",
+    "ThumbnailUrl": "thumbnails/products/corset-crop-top-shoulder-high_thumbnail.jpg",
+    "Price": 34.99,
+    "DiscountPercentage": 12.00,
+    "StockQuantity": 40,
+    "Rating": 4.25,
+    "BrandId": 27,
+    "TypeId": 7
+  },
+  {
+    
+    "Name": "Short Peplum Top",
+    "Description": "Chic short peplum top with flared hem, cinched waist, and comfortable round neck.",
+    "ThumbnailUrl": "thumbnails/products/short-peplum-top_thumbnail.jpg",
+    "Price": 27.99,
+    "DiscountPercentage": 5.00,
+    "StockQuantity": 55,
+    "Rating": 3.95,
+    "BrandId": 27,
+    "TypeId": 7
+  },
+  {
+    
+    "Name": "Tops Sleeve White Women",
+    "Description": "Classic long-sleeve white blouse featuring button-up front and breathable cotton weave.",
+    "ThumbnailUrl": "thumbnails/products/tops-sleeve-white-women_thumbnail.jpg",
+    "Price": 32.99,
+    "DiscountPercentage": 7.00,
+    "StockQuantity": 90,
+    "Rating": 4.30,
+    "BrandId": 27,
+    "TypeId": 7
+  },
+  {
+    
+    "Name": "Generic Wireless Mouse",
+    "Description": "Ergonomic 2.4GHz wireless optical mouse with USB receiver and adjustable DPI settings.",
+    "ThumbnailUrl": "thumbnails/products/generic-wireless-mouse_thumbnail.jpg",
+    "Price": 14.99,
+    "DiscountPercentage": 10.00,
+    "StockQuantity": 120,
+    "Rating": 4.10,
+    "BrandId": 31,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "Mechanical Gaming Keyboard",
+    "Description": "RGB backlit mechanical gaming keyboard featuring tactile blue switches and durable aluminum plate.",
+    "ThumbnailUrl": "thumbnails/products/mechanical-gaming-keyboard_thumbnail.jpg",
+    "Price": 49.99,
+    "DiscountPercentage": 15.00,
+    "StockQuantity": 70,
+    "Rating": 4.65,
+    "BrandId": 31,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "USB-C Hub Multiport Adapter",
+    "Description": "Aluminum 7-in-1 USB-C hub with 4K HDMI, 100W Power Delivery, SD reader, and USB 3.0 ports.",
+    "ThumbnailUrl": "thumbnails/products/usb-c-hub-multiport-adapter_thumbnail.jpg",
+    "Price": 29.99,
+    "DiscountPercentage": 8.00,
+    "StockQuantity": 85,
+    "Rating": 4.40,
+    "BrandId": 31,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "Portable External SSD 1TB",
+    "Description": "Compact and high-speed portable solid-state drive delivering up to 1050MB/s transfer speeds.",
+    "ThumbnailUrl": "thumbnails/products/portable-external-ssd-1tb_thumbnail.jpg",
+    "Price": 109.99,
+    "DiscountPercentage": 12.00,
+    "StockQuantity": 50,
+    "Rating": 4.80,
+    "BrandId": 31,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "HD Webcam with Microphone",
+    "Description": "1080p Full HD USB webcam with dual noise-canceling microphones and automatic low-light correction.",
+    "ThumbnailUrl": "thumbnails/products/hd-webcam-with-microphone_thumbnail.jpg",
+    "Price": 39.99,
+    "DiscountPercentage": 14.00,
+    "StockQuantity": 60,
+    "Rating": 4.20,
+    "BrandId": 31,
+    "TypeId": 19
+  },
+  {
+    
+    "Name": "Noise Canceling Headphones",
+    "Description": "Over-ear Bluetooth headphones with active noise cancellation, 30-hour battery life, and deep bass response.",
+    "ThumbnailUrl": "thumbnails/products/noise-canceling-headphones_thumbnail.jpg",
+    "Price": 89.99,
+    "DiscountPercentage": 11.00,
+    "StockQuantity": 40,
+    "Rating": 4.55,
+    "BrandId": 31,
+    "TypeId": 19
+  }
+]

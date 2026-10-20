@@ -14,10 +14,12 @@ namespace E_Commerce.Infrastucture.Identity.Services
     internal class IdentityService : IIdentityService
     {
         private readonly UserManager<ApplicationUser> _userManager;
+        private readonly RoleManager<IdentityRole> _roleManager;
 
-        public IdentityService(UserManager<ApplicationUser> userManager)
+        public IdentityService(UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager)
         {
             _userManager = userManager;
+            _roleManager = roleManager;
         }
         public async Task<Result<bool>> CheckPasswordAsync(string email, string password, CancellationToken ct = default)
         {
@@ -126,5 +128,63 @@ namespace E_Commerce.Infrastucture.Identity.Services
             return Result<IReadOnlyList<string>>.Ok(roles.ToList());
         }
 
+        public async Task<Result<IReadOnlyList<AdminUsersDto>>> GetAllUsersAsync(CancellationToken ct = default)
+        {
+            var users = _userManager.Users.Select(u => new IdentityUserResult(u.Id, u.Email, u.UserName, u.DisplayName)).ToList();
+
+            var adminUsers = new List<AdminUsersDto>();
+            foreach (var user in users)
+            {
+                var u = await _userManager.FindByEmailAsync(user.Email!);
+                var roles = await _userManager.GetRolesAsync(u!);
+                var newUser = new AdminUsersDto
+                {
+                    Id = user.Id,
+                    Email = user.Email,
+                    UserName = user.UserName,
+                    DisplayName = user.DisplayName,
+                    Roles = roles != null ? string.Join(", ", roles) : string.Empty
+                };
+                adminUsers.Add(newUser);
+            }
+
+            return Result<IReadOnlyList<AdminUsersDto>>.Ok(adminUsers);
+        }
+
+
+        public async Task<Result<bool>> AddOrUpdateRolesAsync(string email, string role, CancellationToken ct = default)
+        {
+            var user = await _userManager.FindByEmailAsync(email);
+            
+            if (user is null)
+                return Result<bool>.Fail(Error.Failure("User.NotFound", "User Is Not Found"));
+
+            var userRoles = await _userManager.GetRolesAsync(user);
+
+            if (userRoles.Count > 0)
+            
+                foreach (var r in userRoles)
+                {
+                    await _userManager.RemoveFromRoleAsync(user, r);
+                }
+
+                var result = await _userManager.AddToRoleAsync(user, role);
+
+                return result.Succeeded ? Result<bool>.Ok(true)
+                    : Result<bool>.Fail(Error.Failure("UserRole.Failure", string.Join("; ", result.Errors.Select(e => e.Description).ToList())));
+            
+        }
+
+        public Task<Result<IReadOnlyList<RoleDto>>> GetAllRolesAsync(CancellationToken ct = default)
+        {
+            var roles = _roleManager.Roles.Select(r => new RoleDto
+                                        {
+                                            Id = r.Id,
+                                            Name = r.Name!
+                                        })
+                                        .ToList();
+
+            return Task.FromResult(Result<IReadOnlyList<RoleDto>>.Ok(roles));
+        }
     }
 }

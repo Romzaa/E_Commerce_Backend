@@ -41,7 +41,7 @@ namespace E_Commerce.Application.Services
         {
             var cart = await _cartRepo.GetCartAsync(cartId,ct);
             return cart == null ?
-                    Result<CartDTO>.Fail(Error.Failure("Cart.NotFound", $"Cart With Id {cartId} Is Not Found"))
+                    Result<CartDTO>.Fail(Error.NotFound("Cart.NotFound", $"Cart With Id {cartId} Is Not Found"))
                     : Result<CartDTO>.Ok(_mapper.Map<CartDTO>(cart));
         }
     }

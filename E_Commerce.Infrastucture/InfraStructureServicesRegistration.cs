@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using E_Commerce.Application.Contracts;
 using E_Commerce.Domain.Contracts;
+using E_Commerce.Infrastucture.Attachment;
 using E_Commerce.Infrastucture.Data;
 using E_Commerce.Infrastucture.DataSeed;
 using E_Commerce.Infrastucture.Identity.Data;
@@ -26,7 +27,8 @@ namespace E_Commerce.Infrastucture
         public static IServiceCollection AddInfraStructureServices(this IServiceCollection services, IConfiguration configuration) {
 
             services.AddDbContext<StoreDbContext>(options =>
-                options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+                options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"),
+                 sqlOptions => sqlOptions.EnableRetryOnFailure()));
 
             services.AddDbContext<StoreIdentityDbContext>(options =>
                 options.UseSqlServer(configuration.GetConnectionString("IdentityConnection")));
@@ -72,6 +74,8 @@ namespace E_Commerce.Infrastucture
             });
 
             services.AddScoped<IPaymentGateway, StripePaymentGateway>();
+
+            services.AddScoped<IAttachmentService, AttachmentService>();
 
             return services;
                       

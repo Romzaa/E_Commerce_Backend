@@ -58,7 +58,7 @@ namespace E_Commerce.Application.Services
                 if (!products.TryGetValue(item.Id, out var product))
                     return Result<CartDTO>.Fail(new Error("Product.NotFound", $"Product :{item.Id} Is Not Found"));
 
-                item.Price = product.price;
+                item.Price = (product.Price * (1 - product.DiscountPercentage/100));
             }
 
             cart.ShippingPrice = deliveryMethod.Cost;

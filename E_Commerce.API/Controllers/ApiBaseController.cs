@@ -61,7 +61,18 @@ namespace E_Commerce.API.Controllers
 
         protected string GetEmailFromToken()
         {
-            return User.FindFirstValue(ClaimTypes.Email) ?? throw new UnauthorizedAccessException("No Email Claims Found!");
+            foreach (var claim in User.Claims)
+            {
+                Console.WriteLine($"CLAIM TYPE: {claim.Type}");
+                Console.WriteLine($"CLAIM VALUE: {claim.Value}");
+            }
+
+            var email = User.FindFirstValue(ClaimTypes.Email);
+
+            if (string.IsNullOrEmpty(email))
+                throw new UnauthorizedAccessException("No Email Claims Found!");
+
+            return email;
         }
 
 

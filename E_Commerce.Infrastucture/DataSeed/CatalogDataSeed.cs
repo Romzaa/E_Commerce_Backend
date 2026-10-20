@@ -42,6 +42,17 @@ namespace E_Commerce.Infrastucture.DataSeed
                 else { 
                 _logger.LogInformation("Database Already Seeded");
                 }
+
+                await SeedIfEmptyAsync<Review, int>(seedRoot, "reviews.json", ct);
+                await SeedIfEmptyAsync<Image, int>(seedRoot, "images.json", ct);
+
+                var result2 = await _dbContext.SaveChangesAsync(ct);
+                if (result > 0)
+                { _logger.LogInformation($"\u001b[32m {result2} Rows Added\u001b[0m"); }
+                else
+                {
+                    _logger.LogInformation("Database Already Seeded");
+                }
             }
             catch (Exception ex) 
             {

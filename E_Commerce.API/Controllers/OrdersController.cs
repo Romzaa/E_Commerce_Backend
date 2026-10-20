@@ -16,9 +16,8 @@ namespace E_Commerce.API.Controllers
         }
 
 
-        [Authorize]
         [HttpPost]
-
+        [Authorize]
         public async Task<ActionResult<OrderToReturnDTO>> CreateOrder(OrderDTO orderDTO, CancellationToken ct)
         {
             var result= await _orderService.CreateOrderAsync(orderDTO, GetEmailFromToken(), ct);
@@ -32,7 +31,7 @@ namespace E_Commerce.API.Controllers
             return ToActionResult(result);
         }
 
-        [Authorize]
+        [Authorize(Roles ="SuperAdmin")]
         [HttpGet]
         public async Task<ActionResult<IReadOnlyList<OrderToReturnDTO>>> GetAllOrders(CancellationToken ct)
         {
@@ -41,7 +40,7 @@ namespace E_Commerce.API.Controllers
         }
 
 
-        [Authorize]
+        [Authorize(Roles = "SuperAdmin")]
         [HttpGet("{id:guid}")]
         [ProducesResponseType(typeof(OrderToReturnDTO) ,StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]

@@ -26,6 +26,16 @@ namespace E_Commerce.API
             builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("Jwt"));
             builder.Services.Configure<PaymentGatewaySettings>(builder.Configuration.GetSection("Stripe"));
 
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("ReactPolicy", policy =>
+                {
+                    policy.WithOrigins("http://localhost:3000")
+                          .AllowAnyHeader()
+                          .AllowAnyMethod();
+                });
+            });
+
             var app = builder.Build();
             await app.SeedAndMigrateAsync();
             // Configure the HTTP request pipeline.
@@ -33,21 +43,32 @@ namespace E_Commerce.API
             {
                 app.UseSwagger();
                 app.UseSwaggerUI();
-            }
-            app.UseStaticFiles(new StaticFileOptions()
+            };
+            var filesPath = Path.Combine(builder.Environment.ContentRootPath, "Files");
+
+            if (!Directory.Exists(filesPath))
             {
-                FileProvider = new PhysicalFileProvider(Path.Combine(builder.Environment.ContentRootPath, "Files")),
+                Directory.CreateDirectory(filesPath);
+            }
+
+            app.UseStaticFiles(new StaticFileOptions
+            {
+                FileProvider = new PhysicalFileProvider(filesPath),
                 RequestPath = "/Files"
             });
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
+
 
             app.UseHttpsRedirection();
 
+            app.UseCors("ReactPolicy");
             app.UseAuthentication();
             app.UseAuthorization();
 
 
             app.MapControllers();
-
+            app.MapFallbackToFile("index.html");
             app.Run();
             Console.WriteLine(builder.Environment.ContentRootPath);
 

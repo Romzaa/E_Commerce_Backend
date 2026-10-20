@@ -18,7 +18,6 @@ namespace E_Commerce.API.Controllers
             _productService = productService;
         }
 
-        [Authorize]
         [HttpGet]
         [RedisCache(120)]
         public async Task<ActionResult<PaginatedResult<ProductDTO>>> GetAllProducts([FromQuery]ProductQueryParams queryParams, CancellationToken ct)

@@ -18,6 +18,8 @@ namespace E_Commerce.Infrastucture.Data
         public DbSet<ProductType> productTypes { get; set; }
         public DbSet<Order> Orders { get; set; }
         public DbSet<DeliveryMethod> DeliveryMethods { get; set; }
+        public DbSet<Image> Images { get; set; }
+        public DbSet<Review> Reviews { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(StoreDbContext).Assembly);

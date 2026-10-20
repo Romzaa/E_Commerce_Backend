@@ -14,6 +14,13 @@ namespace E_Commerce.Application.Specifications
             AddOrderByAsc(o => o.OrderDate);
 
         }
+        public OrderSpecifications(Guid id) : base(o => o.Id == id)
+        {
+            AddInclude(o => o.Items);
+            AddInclude(o => o.DeliveryMethod);
+            AddOrderByAsc(o => o.OrderDate);
+
+        }
 
         public OrderSpecifications(Guid id, string email) : base(o => o.Id == id && o.BuyerEmail == email)
         {

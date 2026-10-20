@@ -47,13 +47,13 @@ namespace E_Commerce.Application.Services
 
                 orderItems.Add(new OrderItem()
                 {
-                    Price = product.price,
+                    Price = product.Price * (1 - product.DiscountPercentage / 100),
                     Quantity = item.Quantity,
                     Product = new ProductItemOrdered()
                     {
                         ProductName = product.Name,
                         ProductId = product.Id,
-                        PictureUrl = product.PictureUrl
+                        PictureUrl = product.ThumbnailUrl
                     }
                 });
 
@@ -108,5 +108,6 @@ namespace E_Commerce.Application.Services
                 return Result<OrderToReturnDTO>.Ok(_mapper.Map<OrderToReturnDTO>(order));
 
         }
+
     }
 }

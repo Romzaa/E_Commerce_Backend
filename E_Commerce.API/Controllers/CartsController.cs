@@ -19,7 +19,7 @@ namespace E_Commerce.API.Controllers
         public async Task<ActionResult<CartDTO>> GetCart(string id, CancellationToken ct)
         {
             var cart = await _cartService.GetCartAsync(id, ct);
-            return ToActionResult(cart);
+            return ToActionResult<CartDTO>(cart);
         }
 
         [HttpPost]

@@ -16,6 +16,8 @@ namespace E_Commerce.Application.Specifications
         {
             AddInclude(p => p.ProductBrand);
             AddInclude(p => p.ProductType);
+            AddInclude(p => p.Images);
+            AddInclude(p => p.Reviews);
 
             switch (queryParams.Sort)
             {
@@ -26,10 +28,10 @@ namespace E_Commerce.Application.Specifications
                     AddOrderByDesc(p => p.Name);
                         break;
                 case ProductSortingOptions.PriceAsc:
-                    AddOrderByAsc(p => p.price);
+                    AddOrderByAsc(p => p.Price);
                     break;
                 case ProductSortingOptions.PriceDesc:
-                    AddOrderByDesc(p => p.price);
+                    AddOrderByDesc(p => p.Price);
                     break;
                 default:
                     AddOrderByAsc(p => p.Id);
@@ -43,6 +45,8 @@ namespace E_Commerce.Application.Specifications
 
             AddInclude(p => p.ProductBrand);
             AddInclude(p => p.ProductType);
+            AddInclude(p => p.Images);
+            AddInclude(p => p.Reviews);
         }
     }
 }

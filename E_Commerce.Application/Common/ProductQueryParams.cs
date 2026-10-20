@@ -13,15 +13,15 @@ namespace E_Commerce.Application.Common
 
 
         // Pagination
-        private const int MaxPageSize = 10;
-        private const int DefaultPageSize = 5;
+        private const int MaxPageSize = 50;
+        private const int DefaultPageSize = 12;
 
         public int PageIndex { get;  set; } = 1;
         private int pageSize = DefaultPageSize;
         public int PageSize
         {
             get => pageSize;
-            set => pageSize = value > MaxPageSize ?  MaxPageSize : (value < 1 ?  DefaultPageSize :  value ); 
+            set => pageSize = value > MaxPageSize ?  MaxPageSize : (value < 11 ?  DefaultPageSize :  value ); 
         }
     }
 }

@@ -21,7 +21,6 @@ namespace E_Commerce.API.Controllers
             _paymentService = paymentService;
             _paymentGatewaySettings = paymentGatewaySettings.Value;
         }
-        [Authorize]
         [HttpPost("{cartId}")]
         public async Task<ActionResult<CartDTO>> CreateOrUpdatePaymentIntent(string cartId, CancellationToken ct)
         {
