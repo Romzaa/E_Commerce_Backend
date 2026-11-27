@@ -1,0 +1,41 @@
+[
+  { "Name": "H&M" },
+  { "Name": "ZARA" },
+  { "Name": "Nike" },
+  { "Name": "Activ" },
+  { "Name": "Mango" },
+  { "Name": "Levi's" },
+
+  { "Name": "Essence" },
+  { "Name": "Glamour Beauty" },
+  { "Name": "Velvet Touch" },
+  { "Name": "Chic Cosmetics" },
+  { "Name": "Nail Couture" },
+
+  { "Name": "Calvin Klein" },
+  { "Name": "Chanel" },
+  { "Name": "Dior" },
+  { "Name": "Dolce & Gabbana" },
+  { "Name": "Gucci" },
+
+  { "Name": "Annibale Colombo" },
+  { "Name": "Furniture Co." },
+
+  { "Name": "Apple" },
+  { "Name": "Samsung" },
+  { "Name": "Huawei" },
+  { "Name": "OPPO" },
+  { "Name": "Realme" },
+  { "Name": "Xiaomi" },
+
+  { "Name": "Microsoft Surface" },
+  { "Name": "Asus" },
+
+  { "Name": "Fashion Trends" },
+  { "Name": "Urban Style" },
+
+  { "Name": "Rolex" },
+  { "Name": "Casio" },
+
+  { "Name": "Generic" }
+]
